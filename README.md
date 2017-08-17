@@ -85,7 +85,7 @@ Then ask by sending an e-mail to the mailing list (vt-vision-and-learning-readin
 We are a group that meets about once a week to discuss one to three relevant papers. For every meeting, one person will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
 #### What we read?
-We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV) and machine learning conferences (e.g., NIPS, ICML, UAI). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
+We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV) and machine learning conferences (e.g., NIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
 
 #### Who can join?
 We are open to everyone who is interested, whether you are an undergrad, a grad student, or VT staff, regardless of department. Anyone else in the Blacksburg area is also welcome. As long as you are interested in learning more about the fields (by reading cutting-edge research papers), you are welcome to join.
