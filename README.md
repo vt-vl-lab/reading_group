@@ -40,7 +40,7 @@ Location: Whittmore Hall 457B
 
 ## Mailing List
 
-We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Joint Group" when you sign in with your Virginia Tech account.
+We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter Order
 
