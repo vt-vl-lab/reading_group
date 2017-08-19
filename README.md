@@ -21,14 +21,14 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
-| 08/30 |  |  |
-| 09/06 |  |  |
-| 09/13 |  |  |
-| 09/20 |  |  |
-| 09/27 |  |  |
-| 10/04 |  |  |
-| 10/11 |  |  |
-| 10/18 |  |  |
+| 08/30 | Jinwoo Choi              |  |
+| 09/06 | Badour AlBahar           |  |
+| 09/13 | Chen Gao                 |  |
+| 09/20 | Sanket Lokegaonkar       |  |
+| 09/27 | Shruti Phadke            |  |
+| 10/04 | Subhashree Radhakrishnan |  |
+| 10/11 | Maymoonah Toubeh         |  |
+| 10/18 | Yuliang Zou              |  |
 | 10/25 |  |  |
 | 11/01 |  |  |
 | 11/08 |  |  |
@@ -43,6 +43,14 @@ Location: Whittmore Hall 457B
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter Order
+- [https://sites.google.com/site/jchoivision/ Jinwoo Choi]
+- [ Badour AlBahar]
+- [https://gaochen315.github.io/ Chen Gao]
+- [https://sanketloke.github.io/ Sanket Lokegaonkar]
+- [ Shruti Phadke]
+- [ Subhashree Radhakrishnan]
+- [ Maymoonah Toubeh]
+- [https://yuliang-zou.github.io/index.html Yuliang Zou]
 
 ## Related Links
 
