@@ -43,14 +43,14 @@ Location: Whittmore Hall 457B
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter Order
-- [https://sites.google.com/site/jchoivision/ Jinwoo Choi]
-- [ Badour AlBahar]
-- [https://gaochen315.github.io/ Chen Gao]
-- [https://sanketloke.github.io/ Sanket Lokegaonkar]
-- [ Shruti Phadke]
-- [ Subhashree Radhakrishnan]
-- [ Maymoonah Toubeh]
-- [https://yuliang-zou.github.io/index.html Yuliang Zou]
+- [Jinwoo Choi](https://sites.google.com/site/jchoivision/ )
+- [Badour AlBahar]()
+- [Chen Gao](https://gaochen315.github.io/)
+- [Sanket Lokegaonkar](https://sanketloke.github.io/)
+- [Shruti Phadke]()
+- [Subhashree Radhakrishnan]()
+- [Maymoonah Toubeh]()
+- [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
 ## Related Links
 
