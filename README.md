@@ -28,7 +28,7 @@ Location: Whittmore Hall 457B
 | 09/27 | Shruti Phadke            |  |
 | 10/04 | Subhashree Radhakrishnan |  |
 | 10/11 | Maymoonah Toubeh         |  |
-| 10/18 | Yuliang Zou              |  |
+| 10/18 | Yuliang Zou              | Alternative Generative Models [(arXiv17 Bansal et al.)](https://arxiv.org/pdf/1708.05349v1.pdf) [(ICCV17 Chen et al.)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
 | 10/25 |  |  |
 | 11/01 |  |  |
 | 11/08 |  |  |
