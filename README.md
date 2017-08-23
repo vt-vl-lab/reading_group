@@ -28,7 +28,7 @@ Location: Whittmore Hall 457B
 | 09/27 | Shruti Phadke            |  |
 | 10/04 | Subhashree Radhakrishnan |  |
 | 10/11 | Maymoonah Toubeh         |  |
-| 10/18 | Yuliang Zou              | Alternative Generative Models [(arXiv17 Bansal et al.)](https://arxiv.org/pdf/1708.05349v1.pdf) [(ICCV17 Chen et al.)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
+| 10/18 | Yuliang Zou              | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
 | 10/25 |  |  |
 | 11/01 |  |  |
 | 11/08 |  |  |
@@ -47,9 +47,9 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Badour AlBahar]()
 - [Chen Gao](https://gaochen315.github.io/)
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
-- [Shruti Phadke]()
-- [Subhashree Radhakrishnan]()
-- [Maymoonah Toubeh]()
+- [Shruti Phadke](https://sites.google.com/view/shrutiphadke)
+- [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
+- [Maymoonah Toubeh](http://blogs.lt.vt.edu/maymoonah/maymoonah-toubeh/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
 ## Related Links
