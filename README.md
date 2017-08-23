@@ -22,13 +22,13 @@ Location: Whittmore Hall 457B
 |-------------|--------|--------|
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
 | 08/30 | Jinwoo Choi              |  |
-| 09/06 | Badour AlBahar           |  |
-| 09/13 | Chen Gao                 |  |
-| 09/20 | Sanket Lokegaonkar       |  |
-| 09/27 | Shruti Phadke            |  |
-| 10/04 | Subhashree Radhakrishnan |  |
-| 10/11 | Maymoonah Toubeh         |  |
-| 10/18 | Yuliang Zou              | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
+| 09/06 | Chen Gao                 |  |
+| 09/13 | Sanket Lokegaonkar       |  |
+| 09/20 | Shruti Phadke            |  |
+| 09/27 | Subhashree Radhakrishnan |  |
+| 10/04 | Maymoonah Toubeh |  |
+| 10/11 | Yuliang Zou              | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
+| 10/18 |  |  |
 | 10/25 |  |  |
 | 11/01 |  |  |
 | 11/08 |  |  |
