@@ -21,7 +21,7 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
-| 08/30 | Jinwoo Choi              |  |
+| 08/30 | Jinwoo Choi              | What Actions Are Needed For Understanding Human Actions In Videos? [(link)](https://arxiv.org/pdf/1708.02696.pdf) - Gunnar Sigurdsson, Olga Russakovsky and Abhinav Gupta. ICCV2017 |
 | 09/06 | Chen Gao                 |  |
 | 09/13 | Sanket Lokegaonkar       |  |
 | 09/20 | Shruti Phadke            |  |
