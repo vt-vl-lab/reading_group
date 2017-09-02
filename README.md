@@ -21,8 +21,8 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
-| 08/30 | Jinwoo Choi              | What Actions Are Needed For Understanding Human Actions In Videos? [(link)](https://arxiv.org/pdf/1708.02696.pdf) [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx) - Gunnar Sigurdsson, Olga Russakovsky and Abhinav Gupta. ICCV2017 |
-| 09/06 | Chen Gao                 |  |
+| 08/30 | Jinwoo Choi              | [Sigurdsson et al. ICCV2017] What Actions Are Needed For Understanding Human Actions In Videos? [(link)](https://arxiv.org/pdf/1708.02696.pdf) [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
+| 09/06 | Chen Gao                 | [Gkioxari et al. arXiv2017] Detecting and Recognizing Human-Object Interactions [(link)](https://arxiv.org/pdf/1704.07333.pdf) |
 | 09/13 | Sanket Lokegaonkar       |  |
 | 09/20 | Shruti Phadke            |  |
 | 09/27 | Subhashree Radhakrishnan |  |
@@ -44,7 +44,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenter Order
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/ )
-- [Badour AlBahar]()
 - [Chen Gao](https://gaochen315.github.io/)
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
 - [Shruti Phadke](https://sites.google.com/view/shrutiphadke)
