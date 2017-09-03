@@ -24,10 +24,10 @@ Location: Whittmore Hall 457B
 | 08/30 | Jinwoo Choi              | [Sigurdsson et al. ICCV2017] What Actions Are Needed For Understanding Human Actions In Videos? [(link)](https://arxiv.org/pdf/1708.02696.pdf) [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
 | 09/06 | Chen Gao                 | [Gkioxari et al. arXiv2017] Detecting and Recognizing Human-Object Interactions [(link)](https://arxiv.org/pdf/1704.07333.pdf) |
 | 09/13 | Sanket Lokegaonkar       |  |
-| 09/20 | Shruti Phadke            |  |
-| 09/27 | Subhashree Radhakrishnan |  |
-| 10/04 | Maymoonah Toubeh |  |
-| 10/11 | Yuliang Zou              | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]()  |
+| 09/20 | Subhashree Radhakrishnan |  |
+| 09/27 | Maymoonah Toubeh |  |
+| 10/04 | Yuliang Zou | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]() |
+| 10/11 |  |   |
 | 10/18 |  |  |
 | 10/25 |  |  |
 | 11/01 |  |  |
