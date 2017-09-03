@@ -21,13 +21,13 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
-| 08/30 | Jinwoo Choi              | [Sigurdsson et al. ICCV2017] What Actions Are Needed For Understanding Human Actions In Videos? [(link)](https://arxiv.org/pdf/1708.02696.pdf) [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
-| 09/06 | Chen Gao                 | [Gkioxari et al. arXiv2017] Detecting and Recognizing Human-Object Interactions [(link)](https://arxiv.org/pdf/1704.07333.pdf) |
+| 08/30 | Jinwoo Choi              | [[Sigurdsson et al. ICCV 2017](https://arxiv.org/pdf/1708.02696.pdf)] What Actions Are Needed For Understanding Human Actions In Videos? [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
+| 09/06 | Chen Gao                 | [[Gkioxari et al. arXiv 2017](https://arxiv.org/pdf/1704.07333.pdf)] Detecting and Recognizing Human-Object Interactions          |
 | 09/13 | Sanket Lokegaonkar       |  |
 | 09/20 | Subhashree Radhakrishnan |  |
 | 09/27 | Maymoonah Toubeh |  |
-| 10/04 | Yuliang Zou | Alternative Generative Models [(Bansal et al. arXiv 2017)](https://arxiv.org/pdf/1708.05349v1.pdf) [(Chen and Koltun ICCV 2017)](https://arxiv.org/pdf/1707.09405v1.pdf) [(slide)]() |
-| 10/11 |  |   |
+| 10/04 | Yuliang Zou | Alternative Generative Models [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)] [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [(slide)]() |
+| 10/11 | You Lu |   |
 | 10/18 |  |  |
 | 10/25 |  |  |
 | 11/01 |  |  |
@@ -49,6 +49,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
 - [Maymoonah Toubeh](http://blogs.lt.vt.edu/maymoonah/maymoonah-toubeh/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
+- [You Lu]()
 
 ## Related Links
 
