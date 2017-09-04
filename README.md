@@ -27,8 +27,8 @@ Location: Whittmore Hall 457B
 | 09/20 | Subhashree Radhakrishnan |  |
 | 09/27 | Maymoonah Toubeh |  |
 | 10/04 | Yuliang Zou | Alternative Generative Models [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)] [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [(slide)]() |
-| 10/11 | You Lu |   |
-| 10/18 |  |  |
+| 10/11 | You Lu      |  |
+| 10/18 | Sirui Yao   |  |
 | 10/25 |  |  |
 | 11/01 |  |  |
 | 11/08 |  |  |
@@ -50,6 +50,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Maymoonah Toubeh](http://blogs.lt.vt.edu/maymoonah/maymoonah-toubeh/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [You Lu]()
+- [Sirui Yao](http://people.cs.vt.edu/~ysirui/)
 
 ## Related Links
 
