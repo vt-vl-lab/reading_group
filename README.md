@@ -5,6 +5,10 @@ Time: Wednesday 11 AM - 12:00 PM
 
 Location: Whittmore Hall 457B
 
+<p align="center">
+<img src="DSCN2165.JPG" width="648" align="center">
+</p>
+
 ## Table of Contents
 
 - [Schedule Fall 2017](#schedule-fall-2017)
