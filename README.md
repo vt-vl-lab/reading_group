@@ -27,20 +27,20 @@ Location: Whittmore Hall 457B
 | 08/23 |  | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
 | 08/30 | Jinwoo Choi              | [[Sigurdsson et al. ICCV 2017](https://arxiv.org/pdf/1708.02696.pdf)] What Actions Are Needed For Understanding Human Actions In Videos? [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
 | 09/06 | Chen Gao                 | [[Gkioxari et al. arXiv 2017](https://arxiv.org/pdf/1704.07333.pdf)] Detecting and Recognizing Human-Object Interactions [(slide)](https://drive.google.com/file/d/0B80Ufb2hfanwY2Q2OThxMVNHS00/view?usp=sharing)          |
-| 09/13 | Sanket Lokegaonkar       | Lifelong Learning [[Li et al. ECCV 2016](https://arxiv.org/pdf/1606.09282.pdf)] [[Zenke et al. arXiv 2017](https://arxiv.org/pdf/1703.04200.pdf)] [[Lee et al. arXiv 2017](https://arxiv.org/pdf/1703.08475.pdf)] [(slide)](https://docs.google.com/presentation/d/1Kwhiqa3DrsVrMl_EwADG8aXR-UEmpRNfFOCeF-2GQew/edit?usp=sharing) |
+| 09/13 | Sanket Lokegaonkar       | Lifelong Learning [[Li et al. ECCV 2016](https://arxiv.org/pdf/1606.09282.pdf)] [[Zenke et al. arXiv 2017](https://arxiv.org/pdf/1703.04200.pdf)] [[Kirkpatrick et al. arXiv 2016](https://arxiv.org/abs/1612.00796)] [(slide)](https://docs.google.com/presentation/d/1Kwhiqa3DrsVrMl_EwADG8aXR-UEmpRNfFOCeF-2GQew/edit?usp=sharing) |
 | 09/20 | Subhashree Radhakrishnan |  |
 | 09/27 | Maymoonah Toubeh |  |
 | 10/04 | Yuliang Zou | Alternative Generative Models [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)] [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [(slide)]() |
 | 10/11 | You Lu      |  |
 | 10/18 | Sirui Yao   |  |
-| 10/25 |  |  |
-| 11/01 |  |  |
-| 11/08 |  |  |
+| 10/25 | Jinwoo Choi |  |
+| 11/01 | Chen Gao |  |
+| 11/08 | Sanket Lokegaonkar |  |
 | 11/15 | No meeting - CVPR 2018 |  |
-| 11/22 |  |  |
-| 11/29 |  |  |
-| 12/06 |  |  |
-| 12/13 |  |  
+| 11/22 | Subhashree Radhakrishnan |  |
+| 11/29 | Maymoonah Toubeh |  |
+| 12/06 | Yuliang Zou |  |
+| 12/13 | Qing Sun |  
 
 ## Mailing List
 
