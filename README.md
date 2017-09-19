@@ -40,7 +40,7 @@ Location: Whittmore Hall 457B
 | 11/15 | No meeting - CVPR 2018 |  |
 | 11/22 | Subhashree Radhakrishnan |  |
 | 11/29 | Maymoonah Toubeh |  |
-| 12/06 | Yuliang Zou |  |
+| 12/06 | Yuliang Zou | [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] Generative Image Modeling using Style and Structure Adversarial Networks |
 | 12/13 | Qing Sun |  
 
 ## Mailing List
