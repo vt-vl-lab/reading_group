@@ -52,7 +52,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Chen Gao](https://gaochen315.github.io/)
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
 - [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
-- [Maymoonah Toubeh](http://blogs.lt.vt.edu/maymoonah/maymoonah-toubeh/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [You Lu]()
 - [Sirui Yao](http://people.cs.vt.edu/~ysirui/)
