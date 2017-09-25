@@ -30,7 +30,7 @@ Location: Whittmore Hall 457B
 | 09/13 | Sanket Lokegaonkar       | Lifelong Learning [[Li et al. ECCV 2016](https://arxiv.org/pdf/1606.09282.pdf)] [[Zenke et al. arXiv 2017](https://arxiv.org/pdf/1703.04200.pdf)] [[Kirkpatrick et al. arXiv 2016](https://arxiv.org/abs/1612.00796)] [(slide)](https://docs.google.com/presentation/d/1Kwhiqa3DrsVrMl_EwADG8aXR-UEmpRNfFOCeF-2GQew/edit?usp=sharing) |
 | 09/20 | Yuliang Zou | Alternative Generative Models [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)]  [(slide)](https://docs.google.com/presentation/d/1Rokc4wuBdsKfJ2eWpzceB410KJr2U0kc9gTUB_DMLCo/edit?usp=sharing) |
 | 09/21 | "Fei-Fei Li" | ImageNet: Where Have We Been? Where Are We Going? [(link)](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=bull1&eventid=1444482&sessionid=1&key=5DC6165DA411C27D1978065AEEF4E3F5&regTag=&sourcepage=register) |
-| 09/27 | Subhashree Radhakrishnan |  |
+| 09/27 | Subhashree Radhakrishnan | Localization via Language Query [[Gao et al. arXiv 2017](https://arxiv.org/pdf/1705.02101.pdf)] [[Hendricks et al. arXiv 2017](https://arxiv.org/pdf/1708.01641.pdf)] [(slide)]() |
 | 10/04 | You Lu |  |
 | 10/11 | Sirui Yao      |  |
 | 10/18 | Jinwoo Choi   |  |
