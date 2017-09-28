@@ -34,7 +34,7 @@ Location: Whittmore Hall 457B
 | 10/04 | You Lu | Variational Autoencoder [[Kingma and Welling ICLR 2014](https://arxiv.org/pdf/1312.6114.pdf)] [[Srivastava and Sutton ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)] [(slide)]() |
 | 10/11 | Sirui Yao      |  |
 | 10/18 | Jinwoo Choi   |  |
-| 10/25 | Chen Gao | Robust PCA in Computer Vision [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
+| 10/25 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
 | 11/01 | Sanket Lokegaonkar |  |
 | 11/08 | Subhashree Radhakrishnan |  |
 | 11/15 | No meeting - CVPR 2018 |  |
