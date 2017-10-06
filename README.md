@@ -32,16 +32,17 @@ Location: Whittmore Hall 457B
 | 09/21 | "Fei-Fei Li" | ImageNet: Where Have We Been? Where Are We Going? [(link)](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=bull1&eventid=1444482&sessionid=1&key=5DC6165DA411C27D1978065AEEF4E3F5&regTag=&sourcepage=register) |
 | 09/27 | Subhashree Radhakrishnan | Localization via Language Query [[Gao et al. arXiv 2017](https://arxiv.org/pdf/1705.02101.pdf)] [[Hendricks et al. arXiv 2017](https://arxiv.org/pdf/1708.01641.pdf)] [(slide)]() |
 | 10/04 | You Lu | Variational Autoencoder [[Kingma and Welling ICLR 2014](https://arxiv.org/pdf/1312.6114.pdf)] [[Srivastava and Sutton ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)] [(slide)]() |
-| 10/11 | Sirui Yao      |  |
-| 10/18 | Jinwoo Choi   |  |
-| 10/25 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
-| 11/01 | Sanket Lokegaonkar |  |
-| 11/08 | Subhashree Radhakrishnan |  |
+| 10/11 | Yufeng Ma      | [[Koh and Liang ICML 2017](https://arxiv.org/pdf/1703.04730.pdf)] Understanding Black-box Predictions via Influence Functions [(slide)]() |
+| 10/18 | Sirui Yao      |  |
+| 10/25 | Jinwoo Choi   |  |
+| 11/01 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
+| 11/08 | Sanket Lokegaonkar |  |
 | 11/15 | No meeting - CVPR 2018 |  |
-| 11/22 | Yuliang Zou | [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] Generative Image Modeling using Style and Structure Adversarial Networks |
-| 11/29 | You Lu |  |
-| 12/06 | Sirui Yao |  |
-| 12/13 | Qing Sun |  
+| 11/22 | Subhashree Radhakrishnan |  |
+| 11/29 | Yuliang Zou | [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] Generative Image Modeling using Style and Structure Adversarial Networks |
+| 12/06 | You Lu |  |
+| 12/13 | Sirui Yao |  |
+| 12/20 | Qing Sun |  
 
 ## Mailing List
 
@@ -55,6 +56,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [You Lu]()
 - [Sirui Yao](http://people.cs.vt.edu/~ysirui/)
+- [Yufeng Ma](http://people.cs.vt.edu/~yufengma/)
 - [Qing Sun](https://computing.ece.vt.edu/~sunqing/)
 
 ## Related Links
