@@ -1,5 +1,5 @@
 # Virginia Tech Vision and Learning Reading Group
-<img src="https://filebox.ece.vt.edu/~jbhuang/images/vt-logo.png" width="240" align="right">
+<img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time: Wednesday 11 AM - 12:00 PM
 
