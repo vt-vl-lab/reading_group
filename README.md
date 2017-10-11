@@ -31,7 +31,7 @@ Location: Whittmore Hall 457B
 | 09/20 | Yuliang Zou | Alternative Generative Models [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)]  [(slide)](https://docs.google.com/presentation/d/1Rokc4wuBdsKfJ2eWpzceB410KJr2U0kc9gTUB_DMLCo/edit?usp=sharing) |
 | 09/21 | "Fei-Fei Li" | ImageNet: Where Have We Been? Where Are We Going? [(link)](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=bull1&eventid=1444482&sessionid=1&key=5DC6165DA411C27D1978065AEEF4E3F5&regTag=&sourcepage=register) |
 | 09/27 | Subhashree Radhakrishnan | Localization via Language Query [[Gao et al. arXiv 2017](https://arxiv.org/pdf/1705.02101.pdf)] [[Hendricks et al. arXiv 2017](https://arxiv.org/pdf/1708.01641.pdf)] [(slide)](https://drive.google.com/file/d/0BxKHc5ltINnjbWZkS1IxSTQ3bDA/view?usp=sharing) |
-| 10/04 | You Lu | Variational Autoencoder [[Kingma and Welling ICLR 2014](https://arxiv.org/pdf/1312.6114.pdf)] [[Srivastava and Sutton ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)] [(slide)]() |
+| 10/04 | You Lu | Variational Autoencoder [[Kingma and Welling ICLR 2014](https://arxiv.org/pdf/1312.6114.pdf)] [[Srivastava and Sutton ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)] [(slide)](https://docs.google.com/presentation/d/12cTl64atG8vdQE6HUJ3ixw1lTScG_w4uo0VE22c9icY/edit#slide=id.p) |
 | 10/11 | Yufeng Ma      | [[Koh and Liang ICML 2017](https://arxiv.org/pdf/1703.04730.pdf)] Understanding Black-box Predictions via Influence Functions [(slide)](https://drive.google.com/open?id=0Bzt74dVA09KIMy10U1g0ZUdXNFk) |
 | 10/18 | Sirui Yao      |  |
 | 10/25 | Jinwoo Choi   |  |
