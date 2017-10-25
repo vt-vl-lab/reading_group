@@ -25,7 +25,7 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/23 | "Pieter Abbeel" | Deep Reinforecement Learning [(link)](https://www.youtube.com/watch?v=ID150Tl-MMw) [(slide)](https://simons.berkeley.edu/sites/default/files/docs/6453/201703xxsimons-representations-deep-rl.pdf)|
-| 08/30 | Jinwoo Choi              | [[Sigurdsson et al. ICCV 2017](https://arxiv.org/pdf/1708.02696.pdf)] What Actions Are Needed For Understanding Human Actions In Videos? [(slide)](https://github.com/vt-vl-lab/reading_group/blob/master/%5B20170830%5D_VTVLRG_JinwooChoi.pptx)|
+| 08/30 | Jinwoo Choi              | [[Sigurdsson et al. ICCV 2017](https://arxiv.org/pdf/1708.02696.pdf)] What Actions Are Needed For Understanding Human Actions In Videos? [(slide)](https://drive.google.com/file/d/0B78j405KR_l0LUtCUExNZ21EX28/view?usp=sharing)|
 | 09/06 | Chen Gao                 | [[Gkioxari et al. arXiv 2017](https://arxiv.org/pdf/1704.07333.pdf)] Detecting and Recognizing Human-Object Interactions [(slide)](https://drive.google.com/file/d/0B80Ufb2hfanwY2Q2OThxMVNHS00/view?usp=sharing)          |
 | 09/13 | Sanket Lokegaonkar       | Lifelong Learning [[Li et al. ECCV 2016](https://arxiv.org/pdf/1606.09282.pdf)] [[Zenke et al. arXiv 2017](https://arxiv.org/pdf/1703.04200.pdf)] [[Kirkpatrick et al. arXiv 2016](https://arxiv.org/abs/1612.00796)] [(slide)](https://docs.google.com/presentation/d/1Kwhiqa3DrsVrMl_EwADG8aXR-UEmpRNfFOCeF-2GQew/edit?usp=sharing) |
 | 09/20 | Yuliang Zou | Alternative Generative Models [[Chen and Koltun ICCV 2017](https://arxiv.org/pdf/1707.09405v1.pdf)] [[Bansal et al. arXiv 2017](https://arxiv.org/pdf/1708.05349v1.pdf)]  [(slide)](https://docs.google.com/presentation/d/1Rokc4wuBdsKfJ2eWpzceB410KJr2U0kc9gTUB_DMLCo/edit?usp=sharing) |
@@ -34,7 +34,7 @@ Location: Whittmore Hall 457B
 | 10/04 | You Lu | Variational Autoencoder [[Kingma and Welling ICLR 2014](https://arxiv.org/pdf/1312.6114.pdf)] [[Srivastava and Sutton ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)] [(slide)](https://docs.google.com/presentation/d/12cTl64atG8vdQE6HUJ3ixw1lTScG_w4uo0VE22c9icY/edit#slide=id.p) |
 | 10/11 | Yufeng Ma      | [[Koh and Liang ICML 2017](https://arxiv.org/pdf/1703.04730.pdf)] Understanding Black-box Predictions via Influence Functions [(slide)](https://drive.google.com/open?id=0Bzt74dVA09KIMy10U1g0ZUdXNFk) |
 | 10/18 | Sirui Yao      | [[He et al. RecSys 2017](https://arxiv.org/pdf/1707.02410.pdf)] Translation-based Recommendation [(slide)](https://drive.google.com/file/d/0BxKHc5ltINnjNDlTMDd3QjdhNjRpWTRaNVMtZncyZi1tYW9n/view?usp=sharing) |
-| 10/25 | Jinwoo Choi   | [[Kalogeiton et al. ICCV 2017](https://arxiv.org/pdf/1705.01861.pdf)] Action Tubelet Detector for Spatio-Temporal Action Localization |
+| 10/25 | Jinwoo Choi   | [[Kalogeiton et al. ICCV 2017](https://arxiv.org/pdf/1705.01861.pdf)] Action Tubelet Detector for Spatio-Temporal Action Localization [(slide)](https://drive.google.com/file/d/0B78j405KR_l0VzNrOWh5WnZMaDA/view?usp=sharing) |
 | 11/01 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
 | 11/08 | Sanket Lokegaonkar |  |
 | 11/15 | No meeting - CVPR 2018 |  |
