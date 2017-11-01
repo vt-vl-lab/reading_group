@@ -39,7 +39,7 @@ Location: Whittmore Hall 457B
 | 11/08 | Sanket Lokegaonkar |  |
 | 11/15 | No meeting - CVPR 2018 |  |
 | 11/22 | Subhashree Radhakrishnan |  |
-| 11/29 | Yuliang Zou | [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] Generative Image Modeling using Style and Structure Adversarial Networks |
+| 11/29 | Yuliang Zou | Adversarial Image Generation with Hierarchical Representations [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] [[Huang et al. CVPR 2017](https://arxiv.org/pdf/1612.04357.pdf)] |
 | 12/06 | You Lu |  |
 | 12/13 | Sirui Yao |  |
 | 12/20 | Qing Sun |  
