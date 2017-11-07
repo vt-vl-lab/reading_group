@@ -38,7 +38,7 @@ Location: Whittmore Hall 457B
 | 11/01 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
 | 11/08 | No meeting - CVPR 2018 |  |
 | 11/15 | No meeting - CVPR 2018 |  |
-| 11/22 | Subhashree Radhakrishnan |  |
+| 11/22 | No meeting - Thanksgiving |  |
 | 11/29 | Yuliang Zou | Adversarial Image Generation with Hierarchical Representations [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] [[Huang et al. CVPR 2017](https://arxiv.org/pdf/1612.04357.pdf)] |
 | 12/06 | You Lu |  |
 | 12/13 | Sirui Yao |  |
