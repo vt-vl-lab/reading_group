@@ -39,10 +39,10 @@ Location: Whittmore Hall 457B
 | 11/08 | No meeting - CVPR 2018 |  |
 | 11/15 | No meeting - CVPR 2018 |  |
 | 11/22 | No meeting - Thanksgiving |  |
-| 11/29 | Yuliang Zou | Adversarial Image Generation with Hierarchical Representations [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] [[Huang et al. CVPR 2017](https://arxiv.org/pdf/1612.04357.pdf)] |
-| 12/06 | You Lu |  |
-| 12/13 | Sirui Yao |  |
-| 12/20 | Qing Sun |  
+| 11/29 | Sanket Lokegaonkar |  |
+| 12/06 | No meeting - NIPS 2017 |  |
+| 12/13 | Subhashree Radhakrishnan |  |
+| 12/20 | Yuliang Zou | Adversarial Image Generation with Hierarchical Representations [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] [[Huang et al. CVPR 2017](https://arxiv.org/pdf/1612.04357.pdf)] |
 
 ## Mailing List
 
