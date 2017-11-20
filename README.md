@@ -36,11 +36,11 @@ Location: Whittmore Hall 457B
 | 10/18 | Sirui Yao      | [[He et al. RecSys 2017](https://arxiv.org/pdf/1707.02410.pdf)] Translation-based Recommendation [(slide)](https://drive.google.com/file/d/0BxKHc5ltINnjNDlTMDd3QjdhNjRpWTRaNVMtZncyZi1tYW9n/view?usp=sharing) |
 | 10/25 | Jinwoo Choi   | [[Kalogeiton et al. ICCV 2017](https://arxiv.org/pdf/1705.01861.pdf)] Action Tubelet Detector for Spatio-Temporal Action Localization [(slide)](https://drive.google.com/file/d/0B78j405KR_l0VzNrOWh5WnZMaDA/view?usp=sharing) |
 | 11/01 | Chen Gao | Robust PCA in Computer Vision [[Cand`es et al. Journal of the ACM 2011](https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf)] [[Gao et al. GlobalSIP 2017](https://arxiv.org/pdf/1709.09328.pdf)] |
-| 11/08 | No meeting - CVPR 2018 |  |
-| 11/15 | No meeting - CVPR 2018 |  |
-| 11/22 | No meeting - Thanksgiving |  |
+| 11/08 | No meeting - CVPR 2018 | - |
+| 11/15 | No meeting - CVPR 2018 | - |
+| 11/22 | No meeting - Thanksgiving | - |
 | 11/29 | Sanket Lokegaonkar |  |
-| 12/06 | No meeting - NIPS 2017 |  |
+| 12/06 | No meeting - NIPS 2017 | - |
 | 12/13 | Subhashree Radhakrishnan |  |
 | 12/20 | Yuliang Zou | Adversarial Image Generation with Hierarchical Representations [[Wang and Gupta ECCV 2016](https://arxiv.org/pdf/1603.05631.pdf)] [[Huang et al. CVPR 2017](https://arxiv.org/pdf/1612.04357.pdf)] |
 
