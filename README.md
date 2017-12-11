@@ -39,7 +39,7 @@ Location: Whittmore Hall 457B
 | 11/08 | - | No meeting - CVPR 2018 |
 | 11/15 | - | No meeting - CVPR 2018 |
 | 11/22 | - | No meeting - Thanksgiving |
-| 11/29 | Vision and Learning Lab | NIPS 2017 Paper Preview |
+| 11/29 | Vision and Learning Lab | NIPS 2017 Paper Preview [(slide)](https://docs.google.com/presentation/d/1jRfIneXsJTAzEmGxZNs6FufCkajasnkxHICE6bd2z04/edit?usp=sharing) |
 | 12/06 | - | No meeting - NIPS 2017 |
 
 ## Mailing List
@@ -55,7 +55,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [You Lu]()
 - [Sirui Yao](http://people.cs.vt.edu/~ysirui/)
 - [Yufeng Ma](http://people.cs.vt.edu/~yufengma/)
-- [Qing Sun](https://computing.ece.vt.edu/~sunqing/)
 
 ## Related Links
 
