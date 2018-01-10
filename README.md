@@ -1,9 +1,9 @@
 # Virginia Tech Vision and Learning Reading Group
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
-Time: Wednesday 11 AM - 12:00 PM
+Time: Tuesday 11 AM - 12:00 PM
 
-Location: Whittmore Hall 457B
+Location: Whittmore Hall 457A
 
 <p align="center">
 <img src="DSCN2165.JPG" width="648" align="center">
@@ -25,9 +25,9 @@ Location: Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/17 | Sanket Lokegaonkar       | TBD |
-| 01/20 | Subhashree Radhakrishnan | TBD |
-| 01/27 | Yuliang Zou | TBD |
+| 01/16 | Sanket Lokegaonkar       | TBD |
+| 01/19 | Subhashree Radhakrishnan | TBD |
+| 01/26 | Yuliang Zou | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
