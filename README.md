@@ -25,21 +25,20 @@ Location: Whittmore Hall 457A
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/16 | Sanket Lokegaonkar       | TBD |
-| 01/23 | Subhashree Radhakrishnan | TBD |
+| 01/23 | Sanket Lokegaonkar | TBD |
 | 01/30 | Yuliang Zou | TBD |
-| 02/06 | TBD | TBD |
-| 02/13 | TBD | TBD |
-| 02/20 | TBD | TBD |
-| 02/27 | TBD | TBD |
+| 02/06 | Badour AlBahar | TBD |
+| 02/13 | Jinwoo Choi | TBD |
+| 02/20 | Chen Gao | TBD |
+| 02/27 | Qing Sun | TBD |
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
-| 03/27 | TBD | TBD |
-| 04/03 | TBD | TBD |
-| 04/10 | TBD | TBD |
-| 04/17 | TBD | TBD |
-| 04/24 | TBD | TBD |
+| 03/27 | Joseph Messou | TBD |
+| 04/03 | Xiaolong Li | TBD |
+| 04/10 | Sanket Lokegaonkar | TBD |
+| 04/17 | Yuliang Zou | TBD |
+| 04/24 | Badour AlBahar | TBD |
 | 05/01 | TBD | TBD |
 | 05/08 | TBD | TBD |
 
