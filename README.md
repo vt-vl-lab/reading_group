@@ -14,7 +14,7 @@ Location: Whittmore Hall 457A
 - [Current Schedule (Spring 2018)](#current-schedule)
 - [Previous Meetings](#previous-meetings)
 - [Mailing List](#mailing-list)
-- [Presenter Order](#presenter-order)
+- [Presenter](#presenter)
 - [Related Links](#related-links)
 - [FAQ](#faq)
 - [About Us](#about-us)
@@ -25,7 +25,7 @@ Location: Whittmore Hall 457A
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/23 | Sanket Lokegaonkar | TBD |
+| 01/23 | Sanket Lokegaonkar | [[Sabour et al. NIPS 2017](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)] Dynamic routing between capsules [(slides)]() |
 | 01/30 | Yuliang Zou | TBD |
 | 02/06 | Badour AlBahar | TBD |
 | 02/13 | Jinwoo Choi | TBD |
@@ -49,15 +49,15 @@ Location: Whittmore Hall 457A
 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
-## Presenter Order
+## Presenter
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/ )
 - [Chen Gao](https://gaochen315.github.io/)
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
-- [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
-- [You Lu]()
-- [Sirui Yao](http://people.cs.vt.edu/~ysirui/)
-- [Yufeng Ma](http://people.cs.vt.edu/~yufengma/)
+- [Qing Sun](https://computing.ece.vt.edu/~sunqing/)
+- Joseph Messou
+- Badour AlBahar
+- Xiaolong Li
 
 ## Related Links
 
