@@ -26,7 +26,7 @@ Location: Whittmore Hall 457A
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 01/23 | Sanket Lokegaonkar | [[Sabour et al. NIPS 2017](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)] Dynamic routing between capsules [(slides)](https://docs.google.com/presentation/d/1MqUwYocyIecloLlEDNx4Y1FTOfVFA6PKpvgXkhMVxCo/edit?usp=sharing) |
-| 01/30 | Yuliang Zou | TBD |
+| 01/30 | Yuliang Zou | [[Ulyanov et al. arXiv 2017](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] Deep Image Prior [(slides)]() |
 | 02/06 | Badour AlBahar | TBD |
 | 02/13 | Jinwoo Choi | TBD |
 | 02/20 | Chen Gao | TBD |
