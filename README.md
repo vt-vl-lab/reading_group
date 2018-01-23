@@ -25,7 +25,7 @@ Location: Whittmore Hall 457A
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/23 | Sanket Lokegaonkar | [[Sabour et al. NIPS 2017](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)] Dynamic routing between capsules [(slides)]() |
+| 01/23 | Sanket Lokegaonkar | [[Sabour et al. NIPS 2017](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)] Dynamic routing between capsules [(slides)](https://docs.google.com/presentation/d/1MqUwYocyIecloLlEDNx4Y1FTOfVFA6PKpvgXkhMVxCo/edit?usp=sharing) |
 | 01/30 | Yuliang Zou | TBD |
 | 02/06 | Badour AlBahar | TBD |
 | 02/13 | Jinwoo Choi | TBD |
