@@ -34,7 +34,7 @@ Location: Whittmore Hall 457A
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
-| 03/27 | Joseph Messou | TBD |
+| 03/27 | TBS | TBD |
 | 04/03 | Xiaolong Li | TBD |
 | 04/10 | Sanket Lokegaonkar | TBD |
 | 04/17 | Yuliang Zou | TBD |
