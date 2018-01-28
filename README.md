@@ -34,11 +34,11 @@ Location: Whittmore Hall 457A
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
-| 03/27 | TBS | TBD |
+| 03/27 | Badour AlBahar | TBD |
 | 04/03 | Xiaolong Li | TBD |
 | 04/10 | Sanket Lokegaonkar | TBD |
 | 04/17 | Yuliang Zou | TBD |
-| 04/24 | Badour AlBahar | TBD |
+| 04/24 | TBD | TBD |
 | 05/01 | TBD | TBD |
 | 05/08 | TBD | TBD |
 
@@ -55,7 +55,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [Qing Sun](https://computing.ece.vt.edu/~sunqing/)
-- Joseph Messou
 - Badour AlBahar
 - Xiaolong Li
 
