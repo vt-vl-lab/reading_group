@@ -28,7 +28,7 @@ Location: Whittmore Hall 457A
 | 01/23 | Sanket Lokegaonkar | [[Sabour et al. NIPS 2017](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)] Dynamic routing between capsules [(slides)](https://docs.google.com/presentation/d/1MqUwYocyIecloLlEDNx4Y1FTOfVFA6PKpvgXkhMVxCo/edit?usp=sharing) |
 | 01/30 | Yuliang Zou | [[Ulyanov et al. arXiv 2017](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] Deep Image Prior [(slides)](https://docs.google.com/presentation/d/11J5hYaD9vohtJf30L7d9ywtQDtLtpw8KP0BDgiAzhmE/edit?usp=sharing) |
 | 02/06 | Badour AlBahar | [[Sevilla-Lara et al. arXiv 2017](https://arxiv.org/pdf/1712.08416.pdf)] On the Integration of Optical Flow and Action Recognition [(slides)](https://drive.google.com/file/d/1oCzLBIl-j6LhgaelaSTr-HhmwRLNJxfp/view?usp=sharing) |
-| 02/13 | Jinwoo Choi | TBD |
+| 02/13 | Jinwoo Choi | [[Xie et al. arXiv 2017](https://arxiv.org/pdf/1712.04851.pdf)] Rethinking Spatiotemporal Feature Learning For Video Understanding [(slides)]() |
 | 02/20 | Chen Gao | TBD |
 | 02/27 | Qing Sun | TBD |
 | 03/06 | - | No meeting - Spring Break |
