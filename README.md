@@ -34,10 +34,10 @@ Location: Whittmore Hall 457A
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
-| 03/27 | Badour AlBahar | TBD |
-| 04/03 | Xiaolong Li | TBD |
-| 04/10 | Sanket Lokegaonkar | TBD |
-| 04/17 | Yuliang Zou | TBD |
+| 03/27 | Xiaolong Li | TBD |
+| 04/03 | Sanket Lokegaonkar | TBD |
+| 04/10 | Yuliang Zou | TBD |
+| 04/17 | Badour AlBahar | TBD |
 | 04/24 | TBD | TBD |
 | 05/01 | TBD | TBD |
 | 05/08 | TBD | TBD |
