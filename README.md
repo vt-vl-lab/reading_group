@@ -29,8 +29,8 @@ Location: Whittmore Hall 457A
 | 01/30 | Yuliang Zou | [[Ulyanov et al. arXiv 2017](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] Deep Image Prior [(slides)](https://docs.google.com/presentation/d/11J5hYaD9vohtJf30L7d9ywtQDtLtpw8KP0BDgiAzhmE/edit?usp=sharing) |
 | 02/06 | Badour AlBahar | [[Sevilla-Lara et al. arXiv 2017](https://arxiv.org/pdf/1712.08416.pdf)] On the Integration of Optical Flow and Action Recognition [(slides)](https://drive.google.com/file/d/1oCzLBIl-j6LhgaelaSTr-HhmwRLNJxfp/view?usp=sharing) |
 | 02/13 | Jinwoo Choi | [[Xie et al. arXiv 2017](https://arxiv.org/pdf/1712.04851.pdf)] Rethinking Spatiotemporal Feature Learning For Video Understanding [(slides)](https://drive.google.com/file/d/1_PUALsnM10pBj-KZfqWZWIRy5l-0nDP7/view?usp=sharing) |
-| 02/20 | Chen Gao | TBD |
-| 02/27 | Qing Sun | TBD |
+| 02/20 | Qing Sun | TBD |
+| 02/27 | Chen Gao | TBD |
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
