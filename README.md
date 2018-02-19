@@ -30,7 +30,7 @@ Location: Whittmore Hall 457A
 | 02/06 | Badour AlBahar | [[Sevilla-Lara et al. arXiv 2017](https://arxiv.org/pdf/1712.08416.pdf)] On the Integration of Optical Flow and Action Recognition [(slides)](https://drive.google.com/file/d/1oCzLBIl-j6LhgaelaSTr-HhmwRLNJxfp/view?usp=sharing) |
 | 02/13 | Jinwoo Choi | [[Xie et al. arXiv 2017](https://arxiv.org/pdf/1712.04851.pdf)] Rethinking Spatiotemporal Feature Learning For Video Understanding [(slides)](https://drive.google.com/file/d/1_PUALsnM10pBj-KZfqWZWIRy5l-0nDP7/view?usp=sharing) |
 | 02/20 | Qing Sun | Connecting Vision and Language: From VQA to Embodied QA [[Antol et al. ICCV 2015](https://www.cc.gatech.edu/~parikh/Publications/ICCV2015_VQA.pdf)] [[Das et al. CVPR 2017](https://arxiv.org/pdf/1611.08669.pdf)] [[Das et al. CVPR 2018](https://arxiv.org/pdf/1711.11543.pdf)] [(slides)]() |
-| 02/27 | Chen Gao | TBD |
+| 02/27 | Chen Gao | [[Xue et al. SIGGRAPH 2015](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotograpy_SIGGRAPH2015.pdf)] A Computational Approach for Obstruction-Free Photography [(slides)]() |
 | 03/06 | - | No meeting - Spring Break |
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
@@ -101,7 +101,7 @@ We are a group that meets about once a week to discuss one to three relevant pap
 **NOTE:** Please tell the group organizer (ylzou -at- vt.edu) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before Monday of that week.
 
 #### What we read?
-We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV) and machine learning conferences (e.g., NIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
+We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
 
 #### Who can join?
 We are open to everyone who is interested, whether you are an undergrad, a grad student, or VT staff, regardless of department. Anyone else in the Blacksburg area is also welcome. As long as you are interested in learning more about the fields (by reading cutting-edge research papers), you are welcome to join.
