@@ -38,9 +38,9 @@ Location: Whittmore Hall 457A
 | 04/03 | Sanket Lokegaonkar | TBD |
 | 04/10 | Yuliang Zou | TBD |
 | 04/17 | Badour AlBahar | TBD |
-| 04/24 | TBD | TBD |
-| 05/01 | TBD | TBD |
-| 05/08 | TBD | TBD |
+| 04/24 | Jinwoo Choi | TBD |
+| 05/01 | Chen Gao | TBD |
+| 05/08 | Vision and Learning Lab | CVPR 2018 Paper Preview |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
