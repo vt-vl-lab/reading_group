@@ -41,7 +41,6 @@ Location: Whittmore Hall 457A
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | Jinwoo Choi | TBD |
 | 05/08 | Chen Gao | TBD |
-| 05/15 | Vision and Learning Lab | CVPR 2018 Paper Preview |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
