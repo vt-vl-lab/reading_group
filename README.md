@@ -36,7 +36,7 @@ Location: Whittmore Hall 457A
 | 03/20 | - | No meeting - ECCV 2018 |
 | 03/27 | Xiaolong Li | TBD |
 | 04/03 | Sanket Lokegaonkar | TBD |
-| 04/10 | Yuliang Zou | TBD |
+| 04/10 | Yuliang Zou | [[Hu et al. CVPR 2018](https://arxiv.org/pdf/1711.10370.pdf)] Learning to Segment Everything |
 | 04/17 | Badour AlBahar | TBD |
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | Jinwoo Choi | TBD |
