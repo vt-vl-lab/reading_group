@@ -55,8 +55,9 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Sanket Lokegaonkar](https://sanketloke.github.io/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [Qing Sun](https://computing.ece.vt.edu/~sunqing/)
+- [Xiaolong Li](https://dragonlong.github.io/)
 - Badour AlBahar
-- Xiaolong Li
+
 
 ## Related Links
 
