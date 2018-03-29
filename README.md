@@ -5,12 +5,6 @@ Time: Tuesday 11 AM - 12:00 PM
 
 Location: Whittmore Hall 457A
 
-**News:** We have a new study group to watch video lectures together! 
-
-Time: Wednesday 1 PM - 2 PM
-
-Location: Whittmore Hall 302
-
 <p align="center">
 <img src="DSCN2165.JPG" width="648" align="center">
 </p>
@@ -41,17 +35,27 @@ Location: Whittmore Hall 302
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
 | 03/27 | Xiaolong Li | [[Sermanet et al. arXiv 2017](https://arxiv.org/pdf/1704.06888.pdf)] Time-Contrastive Networks: Self-Supervised Learning from Video [(slides)](https://drive.google.com/file/d/1z5vQkWGB8u7oz5ZeAVzDAKl4Kk65Ry16/view?usp=sharing) |
-| 03/28 | "Justin Johnson" | CS231n Spring 2018: Lecture 10 - Recurrent Neural Networks [(link)](https://www.youtube.com/watch?v=6niqTuYFZLQ&index=10&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/03 | Sanket Lokegaonkar | TBD |
-| 04/04 | "Justin Johnson" | CS231n Spring 2018: Lecture 11 - Detection and Segmentation [(link)](https://www.youtube.com/watch?v=nDPWywWRIRo&index=11&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/10 | Yuliang Zou | [[Hu et al. CVPR 2018](https://arxiv.org/pdf/1711.10370.pdf)] Learning to Segment Everything |
-| 04/11 | "Justin Johnson" | CS231n Spring 2018: Lecture 12 - Visualizing and Understanding [(link)](https://www.youtube.com/watch?v=6wcs6szJWMY&index=12&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/17 | Badour AlBahar | TBD |
-| 04/18 | "Serena Yeung" | CS231n Spring 2018: Lecture 13 - Generative Models [(link)](https://www.youtube.com/watch?v=5WoItGTWV54&index=13&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | Jinwoo Choi | TBD |
-| 05/02 | "Serena Yeung" | CS231n Spring 2018: Lecture 14 - Deep Reinforcement Learning [(link)](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14) |
 | 05/08 | Chen Gao | TBD |
+
+**News:** We have a new study group to watch video lectures together! 
+
+Time: Wednesday 1 PM - 2 PM
+
+Location: Whittmore Hall 302
+
+
+| Date       | Instructor     |  Topic     |
+|-------------|--------|--------|
+| 03/28 | "Justin Johnson" | CS231n Spring 2018: Lecture 10 - Recurrent Neural Networks [(link)](https://www.youtube.com/watch?v=6niqTuYFZLQ&index=10&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| 04/04 | "Justin Johnson" | CS231n Spring 2018: Lecture 11 - Detection and Segmentation [(link)](https://www.youtube.com/watch?v=nDPWywWRIRo&index=11&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| 04/11 | "Justin Johnson" | CS231n Spring 2018: Lecture 12 - Visualizing and Understanding [(link)](https://www.youtube.com/watch?v=6wcs6szJWMY&index=12&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| 04/18 | "Serena Yeung" | CS231n Spring 2018: Lecture 13 - Generative Models [(link)](https://www.youtube.com/watch?v=5WoItGTWV54&index=13&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| 05/02 | "Serena Yeung" | CS231n Spring 2018: Lecture 14 - Deep Reinforcement Learning [(link)](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14) |
 | 05/10 | "Ian Goodfellow" | CS231n Spring 2018: Lecture 15 - Adversarial Examples and Adversarial Training [(link)](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16) |
 
 ## Previous Meetings
