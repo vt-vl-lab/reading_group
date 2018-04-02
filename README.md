@@ -35,7 +35,7 @@ Location: Whittmore Hall 457A
 | 03/13 | - | No meeting - ECCV 2018 |
 | 03/20 | - | No meeting - ECCV 2018 |
 | 03/27 | Xiaolong Li | [[Sermanet et al. arXiv 2017](https://arxiv.org/pdf/1704.06888.pdf)] Time-Contrastive Networks: Self-Supervised Learning from Video [(slides)](https://drive.google.com/file/d/1z5vQkWGB8u7oz5ZeAVzDAKl4Kk65Ry16/view?usp=sharing) |
-| 04/03 | Sanket Lokegaonkar | [[Finn et al. CoRL 2017](http://proceedings.mlr.press/v78/finn17a/finn17a.pdf)] One-Shot Visual Imitation Learning via Meta-Learning |
+| 04/03 | Sanket Lokegaonkar | [[Andrychowicz et al. NIPS 2016](https://arxiv.org/pdf/1606.04474.pdf)] Learning to learn by gradient descent by gradient descent |
 | 04/10 | Yuliang Zou | [[Hu et al. CVPR 2018](https://arxiv.org/pdf/1711.10370.pdf)] Learning to Segment Everything |
 | 04/17 | Badour AlBahar | TBD |
 | 04/24 | - | No meeting - BMVC 2018 |
