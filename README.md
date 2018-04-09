@@ -44,7 +44,7 @@ Location: Whittmore Hall 457A
 
 **News:** We have a new study group to watch video lectures together! 
 
-Time: Wednesday 1 PM - 2 PM
+Time: Wednesday 12:50 PM - 2 PM
 
 Location: Whittmore Hall 302
 
