@@ -37,7 +37,7 @@ Location: Whittmore Hall 457A
 | 03/27 | Xiaolong Li | [[Sermanet et al. arXiv 2017](https://arxiv.org/pdf/1704.06888.pdf)] Time-Contrastive Networks: Self-Supervised Learning from Video [(slides)](https://drive.google.com/file/d/1z5vQkWGB8u7oz5ZeAVzDAKl4Kk65Ry16/view?usp=sharing) |
 | 04/03 | Sanket Lokegaonkar | [[Andrychowicz et al. NIPS 2016](https://arxiv.org/pdf/1606.04474.pdf)] Learning to learn by gradient descent by gradient descent [(slides)](https://docs.google.com/presentation/d/1CTKC3_I8piibgz-B_2dVbLkcvC8HDWmtO4AeoVX0J6k/edit?usp=sharing) |
 | 04/10 | Yuliang Zou | [[Hu et al. CVPR 2018](https://arxiv.org/pdf/1711.10370.pdf)] Learning to Segment Everything [(slides)](https://docs.google.com/presentation/d/18S8J516eSo9hhv7hZ81tYhj73mwi0mFX0i1TmSD_4nw/edit?usp=sharing) |
-| 04/17 | Badour AlBahar | TBD |
+| 04/17 | Badour AlBahar | [[Gao et al. CVPR 2018](https://arxiv.org/pdf/1712.04109.pdf)] Im2Flow: Motion Hallucination from Static Images for Action Recognition [(slides)]() |
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | Jinwoo Choi | TBD |
 | 05/08 | Chen Gao | TBD |
