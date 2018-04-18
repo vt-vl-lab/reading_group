@@ -55,8 +55,8 @@ Location: Whittmore Hall 302
 | 04/04 | "Justin Johnson" | CS231n Spring 2018: Lecture 11 - Detection and Segmentation [(link)](https://www.youtube.com/watch?v=nDPWywWRIRo&index=11&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/11 | "Justin Johnson" | CS231n Spring 2018: Lecture 12 - Visualizing and Understanding [(link)](https://www.youtube.com/watch?v=6wcs6szJWMY&index=12&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | 04/18 | "Serena Yeung" | CS231n Spring 2018: Lecture 13 - Generative Models [(link)](https://www.youtube.com/watch?v=5WoItGTWV54&index=13&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-| 05/02 | "Serena Yeung" | CS231n Spring 2018: Lecture 14 - Deep Reinforcement Learning [(link)](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14) |
-| 05/10 | "Ian Goodfellow" | CS231n Spring 2018: Lecture 15 - Adversarial Examples and Adversarial Training [(link)](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16) |
+| 04/25 | "Serena Yeung" | CS231n Spring 2018: Lecture 14 - Deep Reinforcement Learning [(link)](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14) |
+| 05/02 | "Ian Goodfellow" | CS231n Spring 2018: Lecture 15 - Adversarial Examples and Adversarial Training [(link)](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16) |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
