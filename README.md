@@ -39,8 +39,8 @@ Location: Whittmore Hall 457A
 | 04/10 | Yuliang Zou | [[Hu et al. CVPR 2018](https://arxiv.org/pdf/1711.10370.pdf)] Learning to Segment Everything [(slides)](https://docs.google.com/presentation/d/18S8J516eSo9hhv7hZ81tYhj73mwi0mFX0i1TmSD_4nw/edit?usp=sharing) |
 | 04/17 | - | No meeting |
 | 04/24 | - | No meeting - BMVC 2018 |
-| 05/01 | Badour AlBahar | [[Gao et al. CVPR 2018](https://arxiv.org/pdf/1712.04109.pdf)] Im2Flow: Motion Hallucination from Static Images for Action Recognition [(slides)]() |
-| 05/08 | Jinwoo Choi | TBD |
+| 05/01 | - | No meeting - BMVC 2018 |
+| 05/08 | TBD | TBD |
 
 **News:** We have a new study group to watch video lectures together! 
 
