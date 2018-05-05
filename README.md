@@ -40,7 +40,8 @@ Location: Whittmore Hall 457A
 | 04/17 | - | No meeting |
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | - | No meeting - BMVC 2018 |
-| 05/08 | TBD | TBD |
+| 05/08 | Sanket Lokegaonkar | (1-2PM) M.S. Thesis Defense |
+| 05/09 | Badour AlBahar | (1-2PM) M.S. Thesis Defense  |
 
 **News:** We have a new study group to watch video lectures together! 
 
