@@ -40,8 +40,8 @@ Location: Whittmore Hall 457A
 | 04/17 | - | No meeting |
 | 04/24 | - | No meeting - BMVC 2018 |
 | 05/01 | - | No meeting - BMVC 2018 |
-| 05/08 | Sanket Lokegaonkar | (1-2PM) M.S. Thesis Defense |
-| 05/09 | Badour AlBahar | (1-2PM) M.S. Thesis Defense  |
+| 05/08 | Sanket Lokegaonkar | (1-2PM) M.S. Thesis Defense - Continual Learning for Deep Dense Prediction |
+| 05/09 | Badour AlBahar | (1-2PM) M.S. Thesis Defense - Im2vid: Future Video Prediction for Static Image Action Recognition  |
 
 **News:** We have a new study group to watch video lectures together! 
 
