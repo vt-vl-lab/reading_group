@@ -1,9 +1,11 @@
 # Virginia Tech Vision and Learning Reading Group
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
-Time: Tuesday 11 AM - 12:00 PM
+Time
+- Study Group: Monday 11 AM - 12:00 PM
+- Reading Group: Wednesday 11 AM - 12:00PM
 
-Location: Whittmore Hall 457A
+Location: Whittmore Hall 457B
 
 <p align="center">
 <img src="DSCN2165.JPG" width="648" align="center">
@@ -11,7 +13,7 @@ Location: Whittmore Hall 457A
 
 ## Table of Contents
 
-- [Current Schedule (Summer 2018)](#current-schedule)
+- [Current Schedule (Fall 2018)](#current-schedule)
 - [Previous Meetings](#previous-meetings)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenter)
@@ -23,7 +25,55 @@ Location: Whittmore Hall 457A
 
 ## Current Schedule
 
-TBD
+### Reading Group: Wednesday 11 AM - 12:00 PM, Whittmore Hall 457B
+
+| Date       | Presenter     |  Topic     |
+|-------------|--------|--------|
+| 08/29 | TBD | TBD |
+| 09/05 | TBD | TBD |
+| 09/12 | TBD | TBD |
+| 09/19 | TBD | TBD |
+| 09/26 | TBD | TBD |
+| 10/03 | TBD | TBD |
+| 10/10 | TBD | TBD |
+| 10/17 | TBD | TBD |
+| 10/24 | TBD | TBD |
+| 10/31 | TBD | TBD |
+| 11/07 | TBD | TBD |
+| 11/14 | - | No meeting - CVPR 2019 |
+| 11/21 | - | No meeting - CVPR 2019 |
+| 11/28 | TBD | TBD |
+| 12/05 | TBD | TBD |
+| 12/12 | TBD | TBD |
+
+### Study Group: Monday 11 AM - 12:00 PM, Whittmore Hall 457B
+
+Topics:
+- Good CVPR citizens
+- Reinforcement Learning
+- Graph Convoultion Networks
+- NLP
+- etc.
+
+| Date       | Instructor     |  Topic     |
+|-------------|--------|--------|
+| 08/27 | TBD | TBD |
+| 09/03 | - | No meeting - Labor Day |
+| 09/10 | TBD | TBD |
+| 09/17 | TBD | TBD |
+| 09/24 | TBD | TBD |
+| 10/01 | TBD | TBD |
+| 10/08 | TBD | TBD |
+| 10/15 | TBD | TBD |
+| 10/22 | TBD | TBD |
+| 10/29 | TBD | TBD |
+| 11/05 | TBD | TBD |
+| 11/12 | - | No meeting - CVPR 2019 |
+| 11/19 | - | No meeting - CVPR 2019 |
+| 11/26 | TBD | TBD |
+| 12/03 | TBD | TBD |
+| 12/10 | TBD | TBD |
+
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
