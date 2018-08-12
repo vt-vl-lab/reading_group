@@ -29,13 +29,13 @@ Location: Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 08/29 | TBD | TBD |
-| 09/05 | TBD | TBD |
-| 09/12 | TBD | TBD |
-| 09/19 | TBD | TBD |
-| 09/26 | TBD | TBD |
-| 10/03 | TBD | TBD |
-| 10/10 | TBD | TBD |
+| 08/29 | Vision and Learning Lab | CVPR review / ECCV preview |
+| 09/05 | Badour AlBahar | TBD |
+| 09/12 | Jinwoo Choi | TBD |
+| 09/19 | Chen Gao | TBD |
+| 09/26 | Yuliang Zou | TBD |
+| 10/03 | Joseph Messou | TBD |
+| 10/10 | Shih-Yang Su | TBD |
 | 10/17 | TBD | TBD |
 | 10/24 | TBD | TBD |
 | 10/31 | TBD | TBD |
@@ -57,10 +57,10 @@ Topics:
 
 | Date       | Instructor     |  Topic     |
 |-------------|--------|--------|
-| 08/27 | TBD | TBD |
+| 08/27 | Jia-Bin Huang | How to write a clear paper |
 | 09/03 | - | No meeting - Labor Day |
-| 09/10 | TBD | TBD |
-| 09/17 | TBD | TBD |
+| 09/10 | "Kristen Grauman" / "Vladlen Koltun" / "Jitendra Malik" | Talk / Research / Writing |
+| 09/17 | "Devi Parikh" / "Derek Hoiem" / "Bill Freeman" | Productivity / Principle / Writing |
 | 09/24 | TBD | TBD |
 | 10/01 | TBD | TBD |
 | 10/08 | TBD | TBD |
