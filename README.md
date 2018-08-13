@@ -59,8 +59,8 @@ Topics:
 |-------------|--------|--------|
 | 08/27 | Jia-Bin Huang | How to write a clear paper |
 | 09/03 | - | No meeting - Labor Day |
-| 09/10 | "Kristen Grauman" / "Vladlen Koltun" / "Jitendra Malik" | Talk / Research / Writing |
-| 09/17 | "Devi Parikh" / "Derek Hoiem" / "Bill Freeman" | Productivity / Principle / Writing |
+| 09/10 | Good Citizen of CVPR:<br> "Kristen Grauman" <br> "Vladlen Koltun" <br> "Jitendra Malik" | Talk: [Tips for Preparing a Clear Talk](https://www.youtube.com/watch?v=4LEZED1YXm0) <br> Research: [Doing (Good) Research](https://www.youtube.com/watch?v=4LEZED1YXm0&feature=youtu.be&t=1420) <br> Writing: [How to Write a Good Paper](https://www.youtube.com/watch?v=imEtTnQKt4M) |
+| 09/17 | Good Citizen of CVPR:<br> "Devi Parikh" <br> "Derek Hoiem" <br> "Bill Freeman" | Productivity: [Calendar. Not to-do lists.](https://youtu.be/imEtTnQKt4M?t=3176) <br> Principle: [Principles to Thrive in the Research Community](https://www.youtube.com/watch?v=imEtTnQKt4M&feature=youtu.be&t=2168) <br> Writing: [How to Write a Good Research Paper](https://www.youtube.com/watch?v=MKUCz_3Ee0A&feature=youtu.be&t=248) |
 | 09/24 | TBD | TBD |
 | 10/01 | TBD | TBD |
 | 10/08 | TBD | TBD |
