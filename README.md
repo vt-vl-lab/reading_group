@@ -36,7 +36,7 @@ Location: Whittmore Hall 457B
 | 09/26 | Yuliang Zou | TBD |
 | 10/03 | Joseph Messou | TBD |
 | 10/10 | Shih-Yang Su | TBD |
-| 10/17 | TBD | TBD |
+| 10/17 | Subhashree Radhakrishnan | TBD |
 | 10/24 | TBD | TBD |
 | 10/31 | TBD | TBD |
 | 11/07 | TBD | TBD |
@@ -91,6 +91,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Xiaolong Li](https://dragonlong.github.io/)
 - Joseph Messou
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
+- Subhashree Radhakrishnan
 
 
 ## Related Links
