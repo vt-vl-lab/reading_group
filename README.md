@@ -37,7 +37,7 @@ Location: Whittmore Hall 457B
 | 10/03 | Joseph Messou | TBD |
 | 10/10 | Shih-Yang Su | TBD |
 | 10/17 | Subhashree Radhakrishnan | TBD |
-| 10/24 | TBD | TBD |
+| 10/24 | Saksham Gupta | TBD |
 | 10/31 | TBD | TBD |
 | 11/07 | TBD | TBD |
 | 11/14 | - | No meeting - CVPR 2019 |
@@ -92,7 +92,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - Joseph Messou
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
 - Subhashree Radhakrishnan
-
+- [Saksham Gupta](https://sakshamgupta006.github.io/)
 
 ## Related Links
 
