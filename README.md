@@ -30,7 +30,7 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 08/29 | Vision and Learning Lab | [How to train you network (w/o direct supervision)](https://drive.google.com/file/d/1IP4-J6LM491TmFgCsH2GHSVEpY4t8faW/view?usp=sharing) <br> [CVPR review / ECCV preview](https://docs.google.com/presentation/d/1sKSK4avXVg4xQvaAZSeduCNHl6Pckwlr1H2ToJdzgiU/edit?usp=sharing) |
-| 09/05 | Badour AlBahar | TBD |
+| 09/05 | Badour AlBahar | High-resolution Image Synthesis and Multi-modal Image to Image Translation [[Want et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf) [[Choi et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 | 09/12 | Jinwoo Choi | TBD |
 | 09/19 | Chen Gao | TBD |
 | 09/26 | Yuliang Zou | TBD |
