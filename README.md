@@ -31,7 +31,7 @@ Location: Whittmore Hall 457B
 |-------------|--------|--------|
 | 08/29 | Vision and Learning Lab | [How to train you network (w/o direct supervision)](https://drive.google.com/file/d/1IP4-J6LM491TmFgCsH2GHSVEpY4t8faW/view?usp=sharing) <br> [CVPR review / ECCV preview](https://docs.google.com/presentation/d/1sKSK4avXVg4xQvaAZSeduCNHl6Pckwlr1H2ToJdzgiU/edit?usp=sharing) |
 | 09/05 | Badour AlBahar | High-resolution Image Synthesis and Multi-modal Image to Image Translation [[Wang et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf) [[Choi et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)  [(slide)](https://drive.google.com/file/d/1tNoSpUd78aYujDGHlz1AhAvjIKGUwHhz/view?usp=sharing)|
-| 09/12 | Jinwoo Choi | Convolutional Networks with Adaptive Inference Graphs [[Veit and Belongie ECCV2018]](https://arxiv.org/pdf/1711.11503.pdf) |
+| 09/12 | Jinwoo Choi | Convolutional Networks with Adaptive Inference Graphs [[Veit and Belongie ECCV2018]](https://arxiv.org/pdf/1711.11503.pdf) [(slides)](https://drive.google.com/file/d/1AoivP1fz0mfR_J10JSK-MCkiqOHKvpyh/view?usp=sharing) |
 | 09/19 | Chen Gao | TBD |
 | 09/26 | Yuliang Zou | TBD |
 | 10/03 | Joseph Messou | TBD |
