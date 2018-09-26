@@ -33,7 +33,7 @@ Location: Whittmore Hall 457B
 | 09/05 | Badour AlBahar | High-resolution Image Synthesis and Multi-modal Image to Image Translation [[Wang et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf) [[Choi et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)  [(slides)](https://drive.google.com/file/d/1tNoSpUd78aYujDGHlz1AhAvjIKGUwHhz/view?usp=sharing)|
 | 09/12 | Jinwoo Choi | [[Veit and Belongie ECCV 2018]](https://arxiv.org/pdf/1711.11503.pdf) Convolutional Networks with Adaptive Inference Graphs [(slides)](https://drive.google.com/file/d/1AoivP1fz0mfR_J10JSK-MCkiqOHKvpyh/view?usp=sharing) |
 | 09/19 | Chen Gao | [[Hu et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf) Relation Networks for Object Detection [(slides)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxoYW5odXNob21lcGFnZXxneDo1ZDc5YWNiYjNjNzRiNmZh)|
-| 09/26 | Yuliang Zou | [[Chen et al. CVPR2018]](https://arxiv.org/pdf/1803.11189.pdf) Iterative Visual Reasoning Beyond Convolutions (slides) |
+| 09/26 | Yuliang Zou | [[Chen et al. CVPR2018]](https://arxiv.org/pdf/1803.11189.pdf) Iterative Visual Reasoning Beyond Convolutions [(slides)](https://docs.google.com/presentation/d/1EA9Dp8gtPGgT8MiS2viuezrZThcrIMVo56GKSp7X6Ew/edit?usp=sharing) |
 | 10/03 | Joseph Messou | TBD |
 | 10/10 | Shih-Yang Su | TBD |
 | 10/17 | Subhashree Radhakrishnan | TBD |
