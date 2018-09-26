@@ -89,9 +89,9 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Chen Gao](https://gaochen315.github.io/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [Xiaolong Li](https://dragonlong.github.io/)
-- Joseph Messou
+- [Joseph Messou](https://josephcmessou.weebly.com/about.html)
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
-- Subhashree Radhakrishnan
+- [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
 - [Saksham Gupta](https://sakshamgupta006.github.io/)
 
 ## Related Links
