@@ -62,7 +62,7 @@ Topics:
 | 09/10 | "Kristen Grauman" <br> "Vladlen Koltun" <br> "Jitendra Malik" | Good Citizen of CVPR:<br> Talk: [Tips for Preparing a Clear Talk](https://www.youtube.com/watch?v=4LEZED1YXm0) <br> Research: [Doing (Good) Research](https://www.youtube.com/watch?v=4LEZED1YXm0&feature=youtu.be&t=1420) <br> Writing: [How to Write a Good Paper](https://www.youtube.com/watch?v=imEtTnQKt4M) |
 | 09/17 | "Devi Parikh" <br> "Derek Hoiem" <br> "Bill Freeman" | Good Citizen of CVPR:<br> Productivity: [Calendar. Not to-do lists.](https://youtu.be/imEtTnQKt4M?t=3176) <br> Principle: [Principles to Thrive in the Research Community](https://www.youtube.com/watch?v=imEtTnQKt4M&feature=youtu.be&t=2168) <br> Writing: [How to Write a Good Research Paper](https://www.youtube.com/watch?v=MKUCz_3Ee0A&feature=youtu.be&t=248) |
 | 09/24 | "Richard Socher" | [Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw) |
-| 10/01 | TBD | TBD |
+| 10/01 | "Hugo Larochelle" | [Foundations of Deep Learning](https://www.youtube.com/watch?v=zij_FTbJHsk) |
 | 10/08 | TBD | TBD |
 | 10/15 | TBD | TBD |
 | 10/22 | TBD | TBD |
