@@ -64,15 +64,15 @@ Topics:
 | 09/24 | "Richard Socher" | [Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw) |
 | 10/01 | "Hugo Larochelle" | [Foundations of Deep Learning](https://www.youtube.com/watch?v=zij_FTbJHsk) |
 | 10/08 | "Pieter Abbeel" | [Intro to MDPs and Exact Solution Methods](https://www.youtube.com/watch?v=qaMdN6LS9rA) |
-| 10/15 | "Rocky Duan" | [Sample-based Approximations and Fitted Learning](https://www.youtube.com/watch?v=qO-HUo0LsO4) |
-| 10/22 | "Vlad Mnih" | [DQN + Variants](https://www.youtube.com/watch?v=fevMOp5TDQs) |
-| 10/29 | "Pieter Abbeel" | [Policy Gradients and Actor Critic](https://www.youtube.com/watch?v=S_gwYj1Q-44) |
-| 11/05 | "Andrej Karpathy" | [Pong from Pixels](https://www.youtube.com/watch?v=tqrcjHuNdmQ) |
+| 10/15 | "Sergey Levine" | [Machines that Learn by Doing](https://www.youtube.com/watch?v=yLHzDky2ApI) |
+| 10/22 | "Rocky Duan" | [Sample-based Approximations and Fitted Learning](https://www.youtube.com/watch?v=qO-HUo0LsO4) |
+| 10/29 | "Vlad Mnih" | [DQN + Variants](https://www.youtube.com/watch?v=fevMOp5TDQs) |
+| 11/05 | "Pieter Abbeel" | [Policy Gradients and Actor Critic](https://www.youtube.com/watch?v=S_gwYj1Q-44) |
 | 11/12 | - | No meeting - CVPR 2019 |
 | 11/19 | - | No meeting - CVPR 2019 |
-| 11/26 | "John Schulman" | [Natural Policy Gradients, TRPO, and PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) |
-| 12/03 | "John Schulman" | [Nuts and Bolts of Deep RL Experimentation](https://www.youtube.com/watch?v=8EcdaCk9KaQ&feature=youtu.be) |
-| 12/10 | "John Schulman" | [SVG, DDPG, and Stochastic Computation Graphs](https://www.youtube.com/watch?v=jmMsNQ2eug4&feature=youtu.be) |
+| 11/26 | "Andrej Karpathy" | [Pong from Pixels](https://www.youtube.com/watch?v=tqrcjHuNdmQ) |
+| 12/03 | "John Schulman" | [Natural Policy Gradients, TRPO, and PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) |
+| 12/10 | "John Schulman" | [Nuts and Bolts of Deep RL Experimentation](https://www.youtube.com/watch?v=8EcdaCk9KaQ&feature=youtu.be) |
 
 
 ## Previous Meetings
