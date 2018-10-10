@@ -35,7 +35,7 @@ Location: Whittmore Hall 457B
 | 09/19 | Chen Gao | [[Hu et al. CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf) Relation Networks for Object Detection [(slides)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxoYW5odXNob21lcGFnZXxneDo1ZDc5YWNiYjNjNzRiNmZh)|
 | 09/26 | Yuliang Zou | [[Chen et al. CVPR 2018]](https://arxiv.org/pdf/1803.11189.pdf) Iterative Visual Reasoning Beyond Convolutions [(slides)](https://docs.google.com/presentation/d/1EA9Dp8gtPGgT8MiS2viuezrZThcrIMVo56GKSp7X6Ew/edit?usp=sharing) |
 | 10/03 | Joseph Messou | [[Niklaus and Liu CVPR 2018]](https://arxiv.org/pdf/1803.10967.pdf) Context-aware Synthesis for Video Frame Interpolation (slides) |
-| 10/10 | Shih-Yang Su | [[Yi et al. NIPS 2018]](https://arxiv.org/pdf/1810.02338.pdf) Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding (slides)  |
+| 10/10 | Shih-Yang Su | [[Yi et al. NIPS 2018]](https://arxiv.org/pdf/1810.02338.pdf) Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [(slides)](https://docs.google.com/presentation/d/1DRCrSiZ85kRyjwp4kPrMJct3UhKxbjzxrcCgbBqMN6w/edit?usp=sharing)  |
 | 10/17 | Subhashree Radhakrishnan | TBD |
 | 10/24 | Saksham Gupta | TBD |
 | 10/31 | TBD | TBD |
