@@ -37,7 +37,7 @@ Location: Whittmore Hall 457B
 | 10/03 | Joseph Messou | [[Niklaus and Liu CVPR 2018]](https://arxiv.org/pdf/1803.10967.pdf) Context-aware Synthesis for Video Frame Interpolation (slides) |
 | 10/10 | Shih-Yang Su | [[Yi et al. NIPS 2018]](https://arxiv.org/pdf/1810.02338.pdf) Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [(slides)](https://docs.google.com/presentation/d/1DRCrSiZ85kRyjwp4kPrMJct3UhKxbjzxrcCgbBqMN6w/edit?usp=sharing)  |
 | 10/17 | Subhashree Radhakrishnan | [[Wang and Gupta ECCV 2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolong_Wang_Videos_as_Space-Time_ECCV_2018_paper.pdf) Videos as Space-Time Region Graphs (slides) |
-| 10/24 | Saksham Gupta | [[Wang et al. NIPS 2018]](https://arxiv.org/pdf/1808.06601.pdf) Video-to-Video Synthesis (slides) |
+| 10/24 | Saksham Gupta | [[Wang et al. NIPS 2018]](https://arxiv.org/pdf/1808.06601.pdf) Video-to-Video Synthesis [(slides)](https://docs.google.com/presentation/d/1p7FVbR2tJ86ROuZO9RSLGC6lg06aDLjmBMRPKsLu2F0/edit?usp=sharing) |
 | 10/31 | Xiaolong Li | TBD |
 | 11/07 | TBD | TBD |
 | 11/14 | - | No meeting - CVPR 2019 |
