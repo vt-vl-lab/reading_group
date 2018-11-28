@@ -42,9 +42,8 @@ Location: Whittmore Hall 457B
 | 11/07 | - | No meeting - CVPR 2019 |
 | 11/14 | - | No meeting - CVPR 2019 |
 | 11/21 | - | No meeting - CVPR 2019 |
-| 11/28 | TBD | TBD |
-| 12/05 | TBD | TBD |
-| 12/12 | TBD | TBD |
+| 11/28 | - | No meeting |
+| 12/05 | Vision and Learning Lab | NeurIPS / ICLR preview |
 
 ### Study Group: Monday 11 AM - 12:00 PM, Whittmore Hall 457B
 
@@ -70,9 +69,8 @@ Topics:
 | 11/05 |- | No meeting - CVPR 2019 |
 | 11/12 | - | No meeting - CVPR 2019 |
 | 11/19 | - | No meeting - CVPR 2019 |
-| 11/26 | "Pieter Abbeel" | [Policy Gradients and Actor Critic](https://www.youtube.com/watch?v=S_gwYj1Q-44) |
-| 12/03 | "Andrej Karpathy" | [Pong from Pixels](https://www.youtube.com/watch?v=tqrcjHuNdmQ) |
-| 12/10 | "John Schulman" | [Natural Policy Gradients, TRPO, and PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) |
+| 11/26 | - | No meeting |
+| 12/03 | "Pieter Abbeel" | [Policy Gradients and Actor Critic](https://www.youtube.com/watch?v=S_gwYj1Q-44) |
 
 
 ## Previous Meetings
