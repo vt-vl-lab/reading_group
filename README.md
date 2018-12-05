@@ -43,7 +43,7 @@ Location: Whittmore Hall 457B
 | 11/14 | - | No meeting - CVPR 2019 |
 | 11/21 | - | No meeting - CVPR 2019 |
 | 11/28 | - | No meeting |
-| 12/05 | Vision and Learning Lab | NeurIPS / ICLR preview |
+| 12/05 | Vision and Learning Lab | [NeurIPS / ICLR preview](https://docs.google.com/presentation/d/1UvH49-TxnfByFzLr_u_Hfojjragwah5PXzb9_OtQ_3E/edit?usp=sharing) |
 
 ### Study Group: Monday 11 AM - 12:00 PM, Whittmore Hall 457B
 
