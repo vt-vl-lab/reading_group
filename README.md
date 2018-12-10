@@ -8,7 +8,7 @@ Time
 Location: Whittmore Hall 457B
 
 <p align="center">
-<img src="DSCN2165.JPG" width="648" align="center">
+<img src="misc/DSCN2165.JPG" width="648" align="center">
 </p>
 
 ## Table of Contents
@@ -74,8 +74,9 @@ Topics:
 
 
 ## Previous Meetings
-- [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/2017_fall.md)
-- [Spring 2018](https://github.com/vt-vl-lab/reading_group/blob/master/2018_spring.md)
+- [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
+- [Spring 2018](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2018_spring.md)
+- [Fall 2018](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2018_fall.md)
 
 ## Mailing List
 
