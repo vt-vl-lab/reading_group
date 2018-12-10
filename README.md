@@ -51,14 +51,15 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenter
 - Badour AlBahar
-- [Jinwoo Choi](https://sites.google.com/site/jchoivision/ )
+- [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
+- [Jin-Dong Dong](https://markdtw.github.io/)
 - [Chen Gao](https://gaochen315.github.io/)
-- [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 - [Xiaolong Li](https://dragonlong.github.io/)
 - [Joseph Messou](https://josephcmessou.weebly.com/about.html)
+- Meng-Li Shih
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
-- [Subhashree Radhakrishnan](https://sites.google.com/a/vt.edu/subhashreeradhakrishnan/)
-- [Saksham Gupta](https://sakshamgupta006.github.io/)
+- [Yuliang Zou](https://yuliang-zou.github.io/index.html)
+- [Yun-Chun Chen](https://yunchunchen.github.io/)
 
 ## Related Links
 
@@ -100,7 +101,7 @@ Then ask by sending an e-mail to the mailing list (vt-vision-and-learning-readin
 #### How it works?
 We are a group that meets about once a week to discuss one to three relevant papers. For every meeting, one person will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer (ylzou -at- vt.edu) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before Monday of that week.
+**NOTE:** Please tell the group organizer (chengao -at- vt.edu) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before Monday of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
