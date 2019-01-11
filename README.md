@@ -29,8 +29,23 @@ Location: Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/22 | Jin-Dong Dong | TBD|
+| 01/22 | Jin-Dong Dong | TBD |
 | 01/29 | Meng-Li Shih  | TBD |
+| 02/05 | Esther Robb  | TBD |
+| 02/12 | Shih-Yang Su  | TBD |
+| 02/19 | Joseph Messou  | TBD |
+| 02/26 | Yuliang Zou  | TBD |
+| 02/29 | Chen Gao  | TBD |
+| 03/05 | Jinwoo Choi  | TBD |
+| 03/12 | Badour AlBahar  | TBD |
+| 03/19 | TBD  | TBD |
+| 03/26 | TBD  | TBD |
+| 04/02 | TBD  | TBD |
+| 04/09 | TBD  | TBD |
+| 04/16 | TBD  | TBD |
+| 04/23 | TBD  | TBD |
+| 04/30 | TBD  | TBD |
+
 
 
 ### Study Group: TBD
