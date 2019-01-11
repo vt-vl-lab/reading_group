@@ -35,10 +35,9 @@ Location: Whittmore Hall 457B
 | 02/12 | Shih-Yang Su  | TBD |
 | 02/19 | Joseph Messou  | TBD |
 | 02/26 | Yuliang Zou  | TBD |
-| 02/29 | Chen Gao  | TBD |
-| 03/05 | Jinwoo Choi  | TBD |
-| 03/12 | Badour AlBahar  | TBD |
-| 03/19 | TBD  | TBD |
+| 03/05 | Chen Gao  | TBD |
+| 03/12 | Jinwoo Choi  | TBD |
+| 03/19 | Badour AlBahar  | TBD |
 | 03/26 | TBD  | TBD |
 | 04/02 | TBD  | TBD |
 | 04/09 | TBD  | TBD |
