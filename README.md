@@ -29,7 +29,8 @@ Location: Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| TBD | TBD | TBD |
+| 01/22 | Jin-Dong Dong | TBD|
+| 01/29 | Meng-Li Shih  | TBD |
 
 
 ### Study Group: TBD
