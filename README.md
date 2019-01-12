@@ -2,8 +2,8 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Study Group: Monday 11 AM - 12:00 PM
-- Reading Group: Wednesday 11 AM - 12:00PM
+- Reading Group: Tuesday 11 AM - 12:00 PM
+- Study Group: Thursday 11 AM - 12:00PM
 
 Location: Whittmore Hall 457B
 
