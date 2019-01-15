@@ -38,7 +38,7 @@ Location: Whittmore Hall 457B
 | 03/05 | Chen Gao  | TBD |
 | 03/12 | Jinwoo Choi  | TBD |
 | 03/19 | Badour AlBahar  | TBD |
-| 03/26 | TBD  | TBD |
+| 03/26 | Xiaolong Li  | TBD |
 | 04/02 | TBD  | TBD |
 | 04/09 | TBD  | TBD |
 | 04/16 | TBD  | TBD |
