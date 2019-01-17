@@ -25,7 +25,7 @@ Location: Whittmore Hall 457B
 
 ## Current Schedule
 
-### Reading Group: TBD
+### Reading Group: Tuesday 11 AM - 12:00 PM, Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
@@ -47,11 +47,25 @@ Location: Whittmore Hall 457B
 
 
 
-### Study Group: TBD
+### Study Group: Thursday 11 AM - 12:00 PM, Whittmore Hall 457B
 
 | Date       | Instructor     |  Topic     |
 |-------------|--------|--------|
-| TBD | TBD | TBD |
+| 01/24 | "Ilya Sutskever" | [OpenAI Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY) |
+| 01/31 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people](https://www.youtube.com/watch?v=7ROelYvo8f0) |
+| 02/07 | "Yoshua Bengio" | [Deep Learning](https://www.youtube.com/watch?v=azOmzumh0vQ) |
+| 02/14 | "Juergen Schmidhuber" | [Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo) |
+| 02/21 | "Stuart Russell" | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
+| 02/28 | TBD  | TBD |
+| 03/07 | TBD  | TBD |
+| 03/14 | TBD  | TBD |
+| 03/21 | TBD  | TBD |
+| 03/28 | TBD  | TBD |
+| 04/04 | TBD  | TBD |
+| 04/11 | TBD  | TBD |
+| 04/18 | TBD  | TBD |
+| 04/25 | TBD  | TBD |
+| 05/02 | TBD  | TBD |
 
 
 
