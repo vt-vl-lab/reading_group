@@ -29,7 +29,7 @@ Location: Whittmore Hall 457B
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/22 | Jin-Dong Dong | TBD |
+| 01/22 | Jin-Dong Dong | An Empirical Study of Example Forgetting during Deep Neural Network Learning [[Toneva et al. ICLR 2019](https://openreview.net/pdf?id=BJlxm30cKm)] [(slide)](#) |
 | 01/29 | Meng-Li Shih  | TBD |
 | 02/05 | Esther Robb  | TBD |
 | 02/12 | Shih-Yang Su  | TBD |
