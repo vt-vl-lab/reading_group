@@ -37,10 +37,10 @@ Location: Whittmore Hall 457B
 | 02/26 | Yuliang Zou  | TBD |
 | 03/05 | Chen Gao  | TBD |
 | 03/12 | Jinwoo Choi  | TBD |
-| 03/19 | Badour AlBahar  | TBD |
-| 03/26 | Xiaolong Li  | TBD |
-| 04/02 | TBD  | TBD |
-| 04/09 | TBD  | TBD |
+| 03/19 | - | No meeting - ICCV 2019 |
+| 03/26 |  - | No meeting - ICCV 2019 |
+| 04/02 | Badour AlBahar   | TBD |
+| 04/09 | Xiaolong Li | TBD |
 | 04/16 | TBD  | TBD |
 | 04/23 | TBD  | TBD |
 | 04/30 | TBD  | TBD |
@@ -59,8 +59,8 @@ Location: Whittmore Hall 457B
 | 02/28 | TBD  | TBD |
 | 03/07 | TBD  | TBD |
 | 03/14 | TBD  | TBD |
-| 03/21 | TBD  | TBD |
-| 03/28 | TBD  | TBD |
+| 03/21 | - | No meeting - ICCV 2019 |
+| 03/28 | - | No meeting - ICCV 2019 |
 | 04/04 | TBD  | TBD |
 | 04/11 | TBD  | TBD |
 | 04/18 | TBD  | TBD |
