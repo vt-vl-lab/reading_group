@@ -36,10 +36,10 @@ Location: Whittmore Hall 457B
 | 02/19 | Joseph Messou  | TBD |
 | 02/26 | Yuliang Zou  | TBD |
 | 03/05 | Chen Gao  | TBD |
-| 03/12 | Jinwoo Choi  | TBD |
+| 03/12 | -  | No meeting - Spring Break |
 | 03/19 | - | No meeting - ICCV 2019 |
 | 03/26 |  - | No meeting - ICCV 2019 |
-| 04/02 | Badour AlBahar   | TBD |
+| 04/02 | Jinwoo Choi   | TBD |
 | 04/09 | Xiaolong Li | TBD |
 | 04/16 | TBD  | TBD |
 | 04/23 | TBD  | TBD |
@@ -52,13 +52,13 @@ Location: Whittmore Hall 457B
 | Date       | Instructor     |  Topic     |
 |-------------|--------|--------|
 | 01/24 | "Ilya Sutskever" | [OpenAI Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY) |
-| 01/31 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people](https://www.youtube.com/watch?v=7ROelYvo8f0) |
-| 02/07 | "Yoshua Bengio" | [Deep Learning](https://www.youtube.com/watch?v=azOmzumh0vQ) |
-| 02/14 | "Juergen Schmidhuber" | [Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo) |
-| 02/21 | "Stuart Russell" | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
-| 02/28 | TBD  | TBD |
+| 01/31 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people (Part 1)](https://www.youtube.com/watch?v=7ROelYvo8f0) |
+| 02/07 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people (Part 2)](https://www.youtube.com/watch?v=7ROelYvo8f0) |
+| 02/14 | "Yoshua Bengio" | [Deep Learning](https://www.youtube.com/watch?v=azOmzumh0vQ) |
+| 02/21 | "Juergen Schmidhuber" | [Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo) |
+| 02/28 |  "Stuart Russell"  | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
 | 03/07 | TBD  | TBD |
-| 03/14 | TBD  | TBD |
+| 03/14 | -  | No meeting - Spring Break |
 | 03/21 | - | No meeting - ICCV 2019 |
 | 03/28 | - | No meeting - ICCV 2019 |
 | 04/04 | TBD  | TBD |
@@ -79,7 +79,7 @@ Location: Whittmore Hall 457B
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter
-- Badour AlBahar
+- [Yun-Chun Chen](https://yunchunchen.github.io/)
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
 - [Jin-Dong Dong](https://markdtw.github.io/)
 - [Chen Gao](https://gaochen315.github.io/)
@@ -88,7 +88,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - Meng-Li Shih
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
-- [Yun-Chun Chen](https://yunchunchen.github.io/)
 
 ## Related Links
 
