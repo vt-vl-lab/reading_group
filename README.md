@@ -30,7 +30,7 @@ Location: Whittmore Hall 457B
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 | 01/22 | Jin-Dong Dong | An Empirical Study of Example Forgetting during Deep Neural Network Learning [[Toneva et al. ICLR 2019](https://openreview.net/pdf?id=BJlxm30cKm)] [(slide)](#) |
-| 01/29 | Meng-Li Shih  | TBD |
+| 01/29 | Meng-Li Shih  | Scalable Inside-Out Image-Based Rendering [[Hedman et al. SIGGRAPH ASIA 2016](http://visual.cs.ucl.ac.uk/pubs/insideout/)] [(slide)](#) |
 | 02/05 | Esther Robb  | TBD |
 | 02/12 | Shih-Yang Su  | TBD |
 | 02/19 | Joseph Messou  | TBD |
