@@ -31,17 +31,17 @@ Location: Whittmore Hall 457B
 |-------------|--------|--------|
 | 01/22 | Jin-Dong Dong | An Empirical Study of Example Forgetting during Deep Neural Network Learning [[Toneva et al. ICLR 2019](https://openreview.net/pdf?id=BJlxm30cKm)] [(slide)](#) |
 | 01/29 | Meng-Li Shih  | Scalable Inside-Out Image-Based Rendering [[Hedman et al. SIGGRAPH ASIA 2016](http://visual.cs.ucl.ac.uk/pubs/insideout/)] [(slide)](#) |
-| 02/05 | Esther Robb  | TBD |
-| 02/12 | Shih-Yang Su  | TBD |
-| 02/19 | Joseph Messou  | TBD |
-| 02/26 | Yuliang Zou  | TBD |
-| 03/05 | Chen Gao  | TBD |
+| 02/05 | -  | No meeting |
+| 02/12 | Esther Robb  | TBD |
+| 02/19 | Shih-Yang Su  | TBD |
+| 02/26 | Joseph Messou  | TBD |
+| 03/05 | Yuliang Zou  | TBD |
 | 03/12 | -  | No meeting - Spring Break |
-| 03/19 | - | No meeting - ICCV 2019 |
+| 03/19 | -  | No meeting - ICCV 2019 |
 | 03/26 |  - | No meeting - ICCV 2019 |
-| 04/02 | Jinwoo Choi   | TBD |
-| 04/09 | Xiaolong Li | TBD |
-| 04/16 | TBD  | TBD |
+| 04/02 | Chen Gao   | TBD |
+| 04/09 | Jinwoo Choi   | TBD |
+| 04/16 | Xiaolong Li | TBD |
 | 04/23 | TBD  | TBD |
 | 04/30 | TBD  | TBD |
 
