@@ -57,12 +57,12 @@ Location: Whittmore Hall 457B
 | 02/14 | "Yoshua Bengio" | [Deep Learning](https://www.youtube.com/watch?v=azOmzumh0vQ) |
 | 02/21 | "Juergen Schmidhuber" | [Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo) |
 | 02/28 |  "Stuart Russell"  | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
-| 03/07 | TBD  | TBD |
+| 03/07 | "Moritz Hardt"  | [When Recurrent Models Don't Need To Be Recurrent](https://www.youtube.com/watch?v=n3Ag1YfHycY) |
 | 03/14 | -  | No meeting - Spring Break |
 | 03/21 | - | No meeting - ICCV 2019 |
 | 03/28 | - | No meeting - ICCV 2019 |
-| 04/04 | TBD  | TBD |
-| 04/11 | TBD  | TBD |
+| 04/04 | "Justin Solomon"  | [Computational Transport](https://www.youtube.com/watch?v=v-JdKheRyMs) |
+| 04/11 | "David Sontag" | [When Inference is Tractable](https://www.youtube.com/watch?v=Cf6bkBdoVU0) |
 | 04/18 | TBD  | TBD |
 | 04/25 | TBD  | TBD |
 | 05/02 | TBD  | TBD |
