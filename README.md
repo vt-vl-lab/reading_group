@@ -33,7 +33,7 @@ Location: Whittmore Hall 457B
 | 01/29 | Meng-Li Shih  | Scalable Inside-Out Image-Based Rendering [[Hedman et al. SIGGRAPH ASIA 2016](http://visual.cs.ucl.ac.uk/pubs/insideout/)] |
 | 02/05 | -  | No meeting |
 | 02/12 | Esther Robb  | Analyzing and Improving Representations with the Soft Nearest Neighbor Loss [[Frosst et al.](https://arxiv.org/pdf/1902.01889.pdf)] |
-| 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [pdf](https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
+| 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [[pdf]](https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
 | 02/26 | Joseph Messou  | TBD |
 | 03/05 | Yuliang Zou  | TBD |
 | 03/12 | -  | No meeting - Spring Break |
