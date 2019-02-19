@@ -8,7 +8,7 @@ Time
 Location: Whittmore Hall 457B
 
 <p align="center">
-<img src="misc/DSCN2165.JPG" width="648" align="center">
+<img src="misc/vllab_party.jpg" width="648" align="center">
 </p>
 
 ## Table of Contents
