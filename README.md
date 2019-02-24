@@ -35,7 +35,7 @@ Location: Whittmore Hall 457B
 | 02/12 | Esther Robb  | Analyzing and Improving Representations with the Soft Nearest Neighbor Loss [[Frosst et al.](https://arxiv.org/pdf/1902.01889.pdf)] |
 | 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [[pdf]](https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
 | 02/26 | Joseph Messou  | TBD |
-| 03/05 | Yuliang Zou  | TBD |
+| 03/05 | Yuliang Zou  | GLO, IMLE, and GLANN [[Bojanowski et al. ICML 2018](http://proceedings.mlr.press/v80/bojanowski18a/bojanowski18a.pdf)] [[Li and Malik arXiv 2018](https://arxiv.org/pdf/1809.09087.pdf)] [[Hoshen and Malik arXiv 2018](https://arxiv.org/pdf/1812.08985.pdf)] |
 | 03/12 | -  | No meeting - Spring Break |
 | 03/19 | -  | No meeting - ICCV 2019 |
 | 03/26 |  - | No meeting - ICCV 2019 |
