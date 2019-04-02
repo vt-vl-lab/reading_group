@@ -40,9 +40,9 @@ Location: Whittmore Hall 457B
 | 03/19 | -  | No meeting - ICCV 2019 |
 | 03/26 |  - | No meeting - ICCV 2019 |
 | 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slide)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
-| 04/09 | Jinwoo Choi   | TBD |
-| 04/16 | Xiaolong Li | TBD |
-| 04/23 | TBD  | TBD |
+| 04/09 | Esther Robb   | NAS-related TBD |
+| 04/16 | Jinwoo Choi | TBD |
+| 04/23 | Xiaolong Li  | TBD |
 | 04/30 | TBD  | TBD |
 
 
