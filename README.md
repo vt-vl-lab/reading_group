@@ -41,7 +41,7 @@ Location: Whittmore Hall 457B
 | 03/26 |  - | No meeting - ICCV 2019 |
 | 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slide)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
 | 04/09 | Esther Robb   | NAS-related TBD |
-| 04/16 | Jinwoo Choi | TBD |
+| 04/16 | Jinwoo Choi | ImageNet-Trained CNNs Are Biased towards Texture; Increasing Shape Bias Improves Accuracy and Robustness [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX) A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[Wang CVPR2017]](https://arxiv.org/abs/1704.03414) Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization [[Singh ICCV2017]](https://arxiv.org/abs/1704.04232) Adversarial Removal of Gender from Deep Image Representations [[Wang arXiv2018]](https://arxiv.org/abs/1811.08489) |
 | 04/23 | Xiaolong Li  | TBD |
 | 04/30 | TBD  | TBD |
 
