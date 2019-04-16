@@ -41,7 +41,7 @@ Location: Whittmore Hall 457B
 | 03/26 |  - | No meeting - ICCV 2019 |
 | 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slides)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
 | 04/09 | Esther Robb   | NAS-related TBD |
-| 04/16 | Jinwoo Choi | ImageNet-Trained CNNs Are Biased towards Texture; Increasing Shape Bias Improves Accuracy and Robustness [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX) <br> A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[Wang CVPR2017]](https://arxiv.org/abs/1704.03414) <br> Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization [[Singh ICCV2017]](https://arxiv.org/abs/1704.04232) <br> Learning Not to Learn: Training Deep Neural Networks with Biased Data [[Kim CVPR2019]](https://arxiv.org/pdf/1812.10352.pdf) <br> [(slides)](https://docs.google.com/presentation/d/17Dk9o0TbKWH3ugGQBUfrPQIpNx9r9c3ZyKsODTGWHf8/edit?usp=sharing) |
+| 04/16 | Jinwoo Choi | Network Debiasing Techniques in Computer Vision [(slides)](https://docs.google.com/presentation/d/17Dk9o0TbKWH3ugGQBUfrPQIpNx9r9c3ZyKsODTGWHf8/edit?usp=sharing) <br> Papers: [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX),[[Wang CVPR2017]](https://arxiv.org/abs/1704.03414),[[Singh ICCV2017]](https://arxiv.org/abs/1704.04232),[[Kim CVPR2019]](https://arxiv.org/pdf/1812.10352.pdf) |
 | 04/23 | Xiaolong Li  | TBD |
 | 04/30 | TBD  | TBD |
 
