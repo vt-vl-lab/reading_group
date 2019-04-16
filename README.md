@@ -33,15 +33,16 @@ Location: Whittmore Hall 457B
 | 01/29 | Meng-Li Shih  | Scalable Inside-Out Image-Based Rendering [[Hedman et al. SIGGRAPH ASIA 2016](http://visual.cs.ucl.ac.uk/pubs/insideout/)] |
 | 02/05 | -  | No meeting |
 | 02/12 | Esther Robb  | Analyzing and Improving Representations with the Soft Nearest Neighbor Loss [[Frosst et al.](https://arxiv.org/pdf/1902.01889.pdf)] |
-| 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [[pdf]](https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
+| 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [[pdf]]
+(https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
 | 02/26 | Joseph Messou  | VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions [[Li et al.](https://arxiv.org/abs/1803.07464)] |
 | 03/05 | Yuliang Zou  | GLO, IMLE, and GLANN [[Bojanowski et al. ICML 2018](http://proceedings.mlr.press/v80/bojanowski18a/bojanowski18a.pdf)] [[Li and Malik arXiv 2018](https://arxiv.org/pdf/1809.09087.pdf)] [[Hoshen and Malik arXiv 2018](https://arxiv.org/pdf/1812.08985.pdf)] |
 | 03/12 | -  | No meeting - Spring Break |
 | 03/19 | -  | No meeting - ICCV 2019 |
 | 03/26 |  - | No meeting - ICCV 2019 |
-| 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slide)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
+| 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slides)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
 | 04/09 | Esther Robb   | NAS-related TBD |
-| 04/16 | Jinwoo Choi | ImageNet-Trained CNNs Are Biased towards Texture; Increasing Shape Bias Improves Accuracy and Robustness [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX) A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[Wang CVPR2017]](https://arxiv.org/abs/1704.03414) Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization [[Singh ICCV2017]](https://arxiv.org/abs/1704.04232) Adversarial Removal of Gender from Deep Image Representations [[Wang arXiv2018]](https://arxiv.org/abs/1811.08489) |
+| 04/16 | Jinwoo Choi | ImageNet-Trained CNNs Are Biased towards Texture; Increasing Shape Bias Improves Accuracy and Robustness [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX) A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[Wang CVPR2017]](https://arxiv.org/abs/1704.03414) Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization [[Singh ICCV2017]](https://arxiv.org/abs/1704.04232) Learning Not to Learn: Training Deep Neural Networks with Biased Data [[Kim CVPR2019]](https://arxiv.org/pdf/1812.10352.pdf) [(slides)](https://docs.google.com/presentation/d/17Dk9o0TbKWH3ugGQBUfrPQIpNx9r9c3ZyKsODTGWHf8/edit?usp=sharing) |
 | 04/23 | Xiaolong Li  | TBD |
 | 04/30 | TBD  | TBD |
 
