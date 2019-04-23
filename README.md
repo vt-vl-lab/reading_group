@@ -65,7 +65,8 @@ Location: Whittmore Hall 457B
 | 04/11 | - | No meeting - Canceled |
 | 04/18 | "David Sontag" | [When Inference is Tractable](https://www.youtube.com/watch?v=Cf6bkBdoVU0) |
 | 04/25 | "Ian Goodfellow"  | [Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0) |
-| 05/02 | "Tomaso Poggio"  | [Brains, Minds, and Machines](https://www.youtube.com/watch?v=aSyZvBrPAyk) |
+| 05/02 | "Stuart Russell"  | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
+| 05/09 | "Tomaso Poggio"  | [Brains, Minds, and Machines](https://www.youtube.com/watch?v=aSyZvBrPAyk) |
 
 
 
