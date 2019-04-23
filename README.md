@@ -62,10 +62,10 @@ Location: Whittmore Hall 457B
 | 03/21 | - | No meeting - ICCV 2019 |
 | 03/28 | - | No meeting - ICCV 2019 |
 | 04/04 | "Justin Solomon"  | [Computational Transport](https://www.youtube.com/watch?v=v-JdKheRyMs) |
-| 04/11 | "David Sontag" | [When Inference is Tractable](https://www.youtube.com/watch?v=Cf6bkBdoVU0) |
-| 04/18 | TBD  | TBD |
-| 04/25 | TBD  | TBD |
-| 05/02 | TBD  | TBD |
+| 04/11 | - | No meeting - Canceled |
+| 04/18 | "David Sontag" | [When Inference is Tractable](https://www.youtube.com/watch?v=Cf6bkBdoVU0) |
+| 04/25 | "Ian Goodfellow"  | [Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0) |
+| 05/02 | "Tomaso Poggio"  | [Brains, Minds, and Machines](https://www.youtube.com/watch?v=aSyZvBrPAyk) |
 
 
 
