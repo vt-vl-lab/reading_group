@@ -42,7 +42,7 @@ Location: Whittmore Hall 457B
 | 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slides)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
 | 04/09 | Esther Robb   | NAS-related TBD |
 | 04/16 | Jinwoo Choi | Network Debiasing Techniques in Computer Vision [(slides)](https://docs.google.com/presentation/d/17Dk9o0TbKWH3ugGQBUfrPQIpNx9r9c3ZyKsODTGWHf8/edit?usp=sharing) <br> Papers: [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX),[[Wang CVPR2017]](https://arxiv.org/abs/1704.03414),[[Singh ICCV2017]](https://arxiv.org/abs/1704.04232),[[Kim CVPR2019]](https://arxiv.org/pdf/1812.10352.pdf) |
-| 04/23 | Xiaolong Li  | TBD |
+| 04/23 | Xiaolong Li  |  Deep Part Induction from Articulated Object Pairs [[Li et al. SIGGRAPH Asia 2018](https://arxiv.org/pdf/1809.07417.pdf)] |
 | 04/30 | TBD  | TBD |
 
 
