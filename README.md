@@ -28,20 +28,20 @@ Time
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 09/05 | TBD  | TBD |
-| 09/12 | TBD  | TBD |
-| 09/19 | TBD  | TBD |
-| 09/26 | TBD  | TBD |
-| 10/03 | TBD  | TBD |
-| 10/10 | TBD  | TBD |
-| 10/17 | TBD  | TBD |
-| 10/24 | TBD  | TBD |
-| 10/31 | TBD  | TBD |
-| 11/07 | -    | No meeting - CVPR2020 deadline |
-| 11/14 | -    | No meeting - CVPR2020 deadline |
-| 11/21 | TBD  | TBD |
-| 11/28 | -    | No meeting - Thanksgiving |
-| 12/05 | TBD  | TBD |
+| 09/05 | Joseph Messou  | TBD |
+| 09/12 | Jinwoo Choi    | TBD |
+| 09/19 | Yuliang Zou    | TBD |
+| 09/26 | Esther Robb    | TBD |
+| 10/03 | Chen Gao       | TBD |
+| 10/10 | Shih-Yang Su   | TBD |
+| 10/17 | Xiaolong Li    | TBD |
+| 10/24 | Si Chen        | TBD |
+| 10/31 | Badour AlBahar | TBD |
+| 11/07 | -              | No meeting - CVPR2020 deadline |
+| 11/14 | -              | No meeting - CVPR2020 deadline |
+| 11/21 | TBD            | TBD |
+| 11/28 | -              | No meeting - Thanksgiving |
+| 12/05 | TBD            | TBD |
 
 ### Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
 
@@ -76,6 +76,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenter
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
+- Si Chen
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
 - [Chen Gao](https://gaochen315.github.io/)
 - [Xiaolong Li](https://dragonlong.github.io/)
