@@ -2,10 +2,9 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Reading Group: Thursday 2PM - 3PM
-- Study Group: Friday 2PM - 3PM
+- Reading Group: Thursday 2PM - 3PM, Whittmore Hall 654
+- Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
 
-Location: Whittmore Hall 457B
 
 <p align="center">
 <img src="misc/vllab_party.jpg" width="648" align="center">
