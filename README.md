@@ -40,7 +40,7 @@ Time
 | 11/07 | -              | No meeting - CVPR2020 deadline |
 | 11/14 | -              | No meeting - CVPR2020 deadline |
 | 11/21 | Jiarui Xu      | TBD |
-| 11/28 | -              | No meeting - Thanksgiving |
+| 11/28 | -              | No meeting - Happy Thanksgiving! |
 | 12/05 | TBD            | TBD |
 
 ### Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
