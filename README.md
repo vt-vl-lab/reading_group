@@ -39,7 +39,7 @@ Time
 | 10/31 | Badour AlBahar | TBD |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
 | 11/14 | -              | No meeting - CVPR2020 deadline |
-| 11/21 | TBD            | TBD |
+| 11/21 | Jiarui Xu      | TBD |
 | 11/28 | -              | No meeting - Thanksgiving |
 | 12/05 | TBD            | TBD |
 
@@ -83,6 +83,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Joseph Messou](https://josephcmessou.weebly.com/about.html)
 - Esther Robb
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
+- Jiarui Xu
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
 Please contact [Jinwoo](https://sites.google.com/site/jchoivision/) if you want to be a presenter this semester!
