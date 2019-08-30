@@ -2,8 +2,8 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Reading Group: Tuesday 11 AM - 12:00 PM
-- Study Group: Thursday 11 AM - 12:00PM
+- Reading Group: Thursday 2PM - 3PM
+- Study Group: Friday 2PM - 3PM
 
 Location: Whittmore Hall 457B
 
@@ -25,48 +25,43 @@ Location: Whittmore Hall 457B
 
 ## Current Schedule
 
-### Reading Group: Tuesday 11 AM - 12:00 PM, Whittmore Hall 457B
+### Reading Group: Thursday 2PM - 3PM, Whittmore Hall 654
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/22 | Jin-Dong Dong | An Empirical Study of Example Forgetting during Deep Neural Network Learning [[Toneva et al. ICLR 2019](https://openreview.net/pdf?id=BJlxm30cKm)] |
-| 01/29 | Meng-Li Shih  | Scalable Inside-Out Image-Based Rendering [[Hedman et al. SIGGRAPH ASIA 2016](http://visual.cs.ucl.ac.uk/pubs/insideout/)] |
-| 02/05 | -  | No meeting |
-| 02/12 | Esther Robb  | Analyzing and Improving Representations with the Soft Nearest Neighbor Loss [[Frosst et al.](https://arxiv.org/pdf/1902.01889.pdf)] |
-| 02/19 | Shih-Yang Su  | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[Peng et al.](https://arxiv.org/pdf/1810.00821.pdf)] [(slides)](https://docs.google.com/presentation/d/1tSi8LXivq8SO8U7QzKvTYYmIRfCJniegliiO3tTtg0Y/edit?usp=sharing)|
-| 02/26 | Joseph Messou  | VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions [[Li et al.](https://arxiv.org/abs/1803.07464)] |
-| 03/05 | Yuliang Zou  | GLO, IMLE, and GLANN [[Bojanowski et al. ICML 2018](http://proceedings.mlr.press/v80/bojanowski18a/bojanowski18a.pdf)] [[Li and Malik arXiv 2018](https://arxiv.org/pdf/1809.09087.pdf)] [[Hoshen and Malik arXiv 2018](https://arxiv.org/pdf/1812.08985.pdf)] |
-| 03/12 | -  | No meeting - Spring Break |
-| 03/19 | -  | No meeting - ICCV 2019 |
-| 03/26 |  - | No meeting - ICCV 2019 |
-| 04/02 | Chen Gao   | TensorMask: A Foundation for Dense Object Segmentation [[Chen et al. 2019](https://arxiv.org/pdf/1903.12174.pdf)] [(slides)](https://drive.google.com/file/d/1xyOcU8-mQFGqZ6JLSxAdHkGO5Polmfk_/view?usp=sharing)  | 
-| 04/09 | Esther Robb   | NAS-related TBD |
-| 04/16 | Jinwoo Choi | Network Debiasing Techniques in Computer Vision [(slides)](https://docs.google.com/presentation/d/17Dk9o0TbKWH3ugGQBUfrPQIpNx9r9c3ZyKsODTGWHf8/edit?usp=sharing) <br> Papers: [[Geirhos ICLR2019]](https://openreview.net/pdf?id=Bygh9j09KX),[[Wang CVPR2017]](https://arxiv.org/abs/1704.03414),[[Singh ICCV2017]](https://arxiv.org/abs/1704.04232),[[Kim CVPR2019]](https://arxiv.org/pdf/1812.10352.pdf) |
-| 04/23 | Xiaolong Li  |  Deep Part Induction from Articulated Object Pairs [[Li et al. SIGGRAPH Asia 2018](https://arxiv.org/pdf/1809.07417.pdf)] |
-| 04/30 | TBD  | TBD |
+| 09/05 | TBD  | TBD |
+| 09/12 | TBD  | TBD |
+| 09/19 | TBD  | TBD |
+| 09/26 | TBD  | TBD |
+| 10/03 | TBD  | TBD |
+| 10/10 | TBD  | TBD |
+| 10/17 | TBD  | TBD |
+| 10/24 | TBD  | TBD |
+| 10/31 | TBD  | TBD |
+| 11/07 | -    | No meeting - CVPR2020 deadline |
+| 11/14 | -    | No meeting - CVPR2020 deadline |
+| 11/21 | TBD  | TBD |
+| 11/28 | -    | No meeting - Thanksgiving |
+| 12/05 | TBD  | TBD |
 
-
-
-### Study Group: Thursday 11 AM - 12:00 PM, Whittmore Hall 457B
+### Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
 
 | Date       | Instructor     |  Topic     |
 |-------------|--------|--------|
-| 01/24 | "Ilya Sutskever" | [OpenAI Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY) |
-| 01/31 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people (Part 1)](https://www.youtube.com/watch?v=7ROelYvo8f0) |
-| 02/07 | "Josh Tenenbaum" | [Building machines that see, learn, and think like people (Part 2)](https://www.youtube.com/watch?v=7ROelYvo8f0) |
-| 02/14 | "Yoshua Bengio" | [Deep Learning](https://www.youtube.com/watch?v=azOmzumh0vQ) |
-| 02/21 | "Juergen Schmidhuber" | [Godel Machines, Meta-Learning, and LSTMs](https://www.youtube.com/watch?v=3FIo6evmweo) |
-| 02/28 |  "Stuart Russell"  | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
-| 03/07 | "Moritz Hardt"  | [When Recurrent Models Don't Need To Be Recurrent](https://www.youtube.com/watch?v=n3Ag1YfHycY) |
-| 03/14 | -  | No meeting - Spring Break |
-| 03/21 | - | No meeting - ICCV 2019 |
-| 03/28 | - | No meeting - ICCV 2019 |
-| 04/04 | "Justin Solomon"  | [Computational Transport](https://www.youtube.com/watch?v=v-JdKheRyMs) |
-| 04/11 | - | No meeting - Canceled |
-| 04/18 | "David Sontag" | [When Inference is Tractable](https://www.youtube.com/watch?v=Cf6bkBdoVU0) |
-| 04/25 | "Ian Goodfellow"  | [Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0) |
-| 05/02 | "Stuart Russell"  | [Long-Term Future of Artificial Intelligence](https://www.youtube.com/watch?v=KsZI5oXBC0k) |
-| 05/09 | "Tomaso Poggio"  | [Brains, Minds, and Machines](https://www.youtube.com/watch?v=aSyZvBrPAyk) |
+| 09/06 | TBD  | TBD |
+| 09/13 | TBD  | TBD |
+| 09/20 | TBD  | TBD |
+| 09/27 | TBD  | TBD |
+| 10/04 | TBD  | TBD |
+| 10/11 | TBD  | TBD |
+| 10/18 | TBD  | TBD |
+| 10/25 | TBD  | TBD |
+| 11/01 | TBD  | TBD |
+| 11/08 | -    | No meeting - CVPR2020 deadline |
+| 11/15 | -    | No meeting - CVPR2020 deadline |
+| 11/22 | TBD  | TBD |
+| 11/29 | -    | No meeting - Thanksgiving |
+| 12/06 | TBD  | TBD |
 
 
 
@@ -74,19 +69,19 @@ Location: Whittmore Hall 457B
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
 - [Spring 2018](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2018_spring.md)
 - [Fall 2018](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2018_fall.md)
+- [Spring 2019](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2019_spring.md)
 
 ## Mailing List
 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter
-- [Yun-Chun Chen](https://yunchunchen.github.io/)
+- [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
-- [Jin-Dong Dong](https://markdtw.github.io/)
 - [Chen Gao](https://gaochen315.github.io/)
 - [Xiaolong Li](https://dragonlong.github.io/)
 - [Joseph Messou](https://josephcmessou.weebly.com/about.html)
-- Meng-Li Shih
+- Esther Robb
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
