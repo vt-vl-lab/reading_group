@@ -84,6 +84,8 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 - [Shih-Yang Su](https://lemonatsu.github.io/home)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
+Please contact [Jinwoo](https://sites.google.com/site/jchoivision/) if you want to be a presenter this semester!
+
 ## Related Links
 
 #### Resources
