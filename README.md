@@ -59,7 +59,7 @@ Time
 | 11/08 | -    | No meeting - CVPR2020 deadline |
 | 11/15 | -    | No meeting - CVPR2020 deadline |
 | 11/22 | TBD  | TBD |
-| 11/29 | -    | No meeting - Thanksgiving |
+| 11/29 | -    | No meeting - Happy Thanksgiving! |
 | 12/06 | TBD  | TBD |
 
 
