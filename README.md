@@ -47,7 +47,7 @@ Time
 
 | Date       | Instructor     |  Topic     |
 |-------------|--------|--------|
-| 09/06 | TBD  | TBD |
+| 09/06 | Yann LeCun  | [Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24&feature=youtu.be&app=desktop) |
 | 09/13 | TBD  | TBD |
 | 09/20 | TBD  | TBD |
 | 09/27 | TBD  | TBD |
