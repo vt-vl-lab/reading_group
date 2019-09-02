@@ -28,7 +28,7 @@ Time
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 09/05 | Joseph Messou  | TBD |
+| 09/05 | Joseph Messou  | Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid [[Kuang et al., ICCV 2019](https://arxiv.org/abs/1908.11754)] |
 | 09/12 | Jinwoo Choi    | TBD |
 | 09/19 | Yuliang Zou    | TBD |
 | 09/26 | Esther Robb    | TBD |
