@@ -32,7 +32,7 @@ Time
 | 09/12 | Jinwoo Choi    | TBD |
 | 09/19 | Yuliang Zou    | TBD |
 | 09/26 | Esther Robb    | TBD |
-| 10/03 | Chen Gao       | TBD |
+| 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] |
 | 10/10 | Shih-Yang Su   | TBD |
 | 10/17 | Xiaolong Li    | TBD |
 | 10/24 | Si Chen        | TBD |
