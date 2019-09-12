@@ -25,6 +25,7 @@ Time
 ## Current Schedule
 
 ### Reading Group: Thursday 2PM - 3PM, Whittmore Hall 654
+Please let Jinwoo know what paper you are going to present and your summary by the end of Sunday of your presentation week.
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
@@ -75,6 +76,8 @@ Time
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter
+Please let Jinwoo know what paper you are going to present and your summary by the end of Sunday of your presentation week.
+
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
 - Si Chen
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
