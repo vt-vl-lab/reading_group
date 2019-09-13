@@ -76,7 +76,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter
-Please let Jinwoo know what paper you are going to present and your summary by the end of Sunday of your presentation week.
+Please let Jinwoo know what paper you are going to present and your summary by the end of Sunday of your presentation week. Also, please send your slides or a link to them to Jinwoo once you finish preparing them.
 
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
 - Si Chen
