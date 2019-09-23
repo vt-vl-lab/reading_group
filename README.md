@@ -32,7 +32,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/05 | Joseph Messou  | Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid [[Kuang et al., ICCV 2019](https://arxiv.org/abs/1908.11754)] [[slides](https://docs.google.com/presentation/d/179RG-SR2cdo-OognksMqLTVcHufxkZUVj-PALmjPKXU/edit#slide=id.g607d6f21a4_0_26)] |
 | 09/12 | Jinwoo Choi    | Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[Chen et al., ICCV2019 Oral]](https://arxiv.org/abs/1907.12743) [[slides](https://docs.google.com/presentation/d/1sHhK2NXXY4pD0uTgppY54LqO1GcdtCPut0VQnHcc1Y4/edit?usp=sharing)] |
 | 09/19 | Esther Robb    | AutoGAN: Neural Architecture Search for Generative Adversarial Networks [[Gong et al., ICCV2019](https://arxiv.org/abs/1908.03835)] [[slides](https://docs.google.com/presentation/d/1jhcAt5ya95oOL_Y1pQnKyStA91ukWuwAQXJ1yfLB9tg/edit?usp=sharing)] |
-| 09/26 | Yuliang Zou    | TBD |
+| 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR 2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] |
 | 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] |
 | 10/10 | Shih-Yang Su   | TBD |
 | 10/17 | Xiaolong Li    | TBD |
