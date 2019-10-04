@@ -34,8 +34,8 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/19 | Esther Robb    | AutoGAN: Neural Architecture Search for Generative Adversarial Networks [[Gong et al., ICCV2019](https://arxiv.org/abs/1908.03835)] [[slides](https://docs.google.com/presentation/d/1jhcAt5ya95oOL_Y1pQnKyStA91ukWuwAQXJ1yfLB9tg/edit?usp=sharing)] |
 | 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR 2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] [[slides]](https://docs.google.com/presentation/d/19zMGDmr8Vv37EBJgZYV1skU9Lwy79kfwmWkEKBrWeHA/edit?usp=sharing) |
 | 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
-| 10/10 | Shih-Yang Su   | TBD |
-| 10/17 | Xiaolong Li    | TBD |
+| 10/10 | Xiaolong Li    | TBD |
+| 10/17 | Shih-Yang Su   | TBD |
 | 10/24 | Si Chen        | TBD |
 | 10/31 | Badour AlBahar | TBD |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
@@ -52,7 +52,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/13 | Oriol Vinyals  | [DeepMind AlphaStar, StarCraft, and Language](https://www.youtube.com/watch?v=Kedt2or9xlo) |
 | 09/20 | Peter Bartlett  | [Geometry of Deep Learning [Day 1 Part 1]](https://www.microsoft.com/en-us/research/video/ai-institute-geometry-of-deep-learning-2019-day-1-session-1/) |
 | 09/27 | Yisong Yue  | [New Frontiers in Imitation Learning](https://www.microsoft.com/en-us/research/video/new-frontiers-imitation-learning/) |
-| 10/04 | TBD  | TBD |
+| 10/04 | N/A  | Cancelled due to Aayush Bansl's visit |
 | 10/11 | TBD  | TBD |
 | 10/18 | TBD  | TBD |
 | 10/25 | TBD  | TBD |
