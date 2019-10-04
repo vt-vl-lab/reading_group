@@ -52,7 +52,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/13 | Oriol Vinyals  | [DeepMind AlphaStar, StarCraft, and Language](https://www.youtube.com/watch?v=Kedt2or9xlo) |
 | 09/20 | Peter Bartlett  | [Geometry of Deep Learning [Day 1 Part 1]](https://www.microsoft.com/en-us/research/video/ai-institute-geometry-of-deep-learning-2019-day-1-session-1/) |
 | 09/27 | Yisong Yue  | [New Frontiers in Imitation Learning](https://www.microsoft.com/en-us/research/video/new-frontiers-imitation-learning/) |
-| 10/04 | N/A  | Cancelled due to Aayush Bansl's visit |
+| 10/04 | N/A  | Cancelled due to Aayush Bansal's visit |
 | 10/11 | TBD  | TBD |
 | 10/18 | TBD  | TBD |
 | 10/25 | TBD  | TBD |
