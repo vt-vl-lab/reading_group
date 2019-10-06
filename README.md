@@ -36,8 +36,8 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
 | 10/10 | Xiaolong Li    | TBD |
 | 10/17 | Shih-Yang Su   | TBD |
-| 10/24 | Si Chen        | TBD |
-| 10/31 | Badour AlBahar | TBD |
+| 10/24 | Badour AlBahar | TBD |
+| 10/31 | Si Chen        | TBD |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
 | 11/14 | -              | No meeting - CVPR2020 deadline |
 | 11/21 | Jiarui Xu      | TBD |
