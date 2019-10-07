@@ -34,7 +34,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/19 | Esther Robb    | AutoGAN: Neural Architecture Search for Generative Adversarial Networks [[Gong et al., ICCV2019](https://arxiv.org/abs/1908.03835)] [[slides](https://docs.google.com/presentation/d/1jhcAt5ya95oOL_Y1pQnKyStA91ukWuwAQXJ1yfLB9tg/edit?usp=sharing)] |
 | 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR 2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] [[slides]](https://docs.google.com/presentation/d/19zMGDmr8Vv37EBJgZYV1skU9Lwy79kfwmWkEKBrWeHA/edit?usp=sharing) |
 | 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
-| 10/10 | Xiaolong Li    | TBD |
+| 10/10 | Xiaolong Li    | Self-Supervised Correspondence in Visuomotor Policy Learning [[Peter et al.](https://arxiv.org/pdf/1909.06933.pdf)] |
 | 10/17 | Shih-Yang Su   | TBD |
 | 10/24 | Badour AlBahar | TBD |
 | 10/31 | Si Chen        | TBD |
