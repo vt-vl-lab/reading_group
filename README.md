@@ -12,7 +12,7 @@ Time
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2019)](#current-schedule)
+- [Current Schedule (Fall 2019)](#current-schedule)
 - [Previous Meetings](#previous-meetings)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenter)
