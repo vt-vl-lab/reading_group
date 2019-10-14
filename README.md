@@ -29,13 +29,13 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 09/05 | Joseph Messou  | Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid [[Kuang et al., ICCV 2019](https://arxiv.org/abs/1908.11754)] [[slides](https://docs.google.com/presentation/d/179RG-SR2cdo-OognksMqLTVcHufxkZUVj-PALmjPKXU/edit#slide=id.g607d6f21a4_0_26)] |
+| 09/05 | Joseph Messou  | Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid [[Kuang et al., ICCV2019](https://arxiv.org/abs/1908.11754)] [[slides](https://docs.google.com/presentation/d/179RG-SR2cdo-OognksMqLTVcHufxkZUVj-PALmjPKXU/edit#slide=id.g607d6f21a4_0_26)] |
 | 09/12 | Jinwoo Choi    | Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[Chen et al., ICCV2019 Oral]](https://arxiv.org/abs/1907.12743) [[slides](https://docs.google.com/presentation/d/1sHhK2NXXY4pD0uTgppY54LqO1GcdtCPut0VQnHcc1Y4/edit?usp=sharing)] |
 | 09/19 | Esther Robb    | AutoGAN: Neural Architecture Search for Generative Adversarial Networks [[Gong et al., ICCV2019](https://arxiv.org/abs/1908.03835)] [[slides](https://docs.google.com/presentation/d/1jhcAt5ya95oOL_Y1pQnKyStA91ukWuwAQXJ1yfLB9tg/edit?usp=sharing)] |
-| 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR 2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] [[slides]](https://docs.google.com/presentation/d/19zMGDmr8Vv37EBJgZYV1skU9Lwy79kfwmWkEKBrWeHA/edit?usp=sharing) |
-| 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR 2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
+| 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] [[slides]](https://docs.google.com/presentation/d/19zMGDmr8Vv37EBJgZYV1skU9Lwy79kfwmWkEKBrWeHA/edit?usp=sharing) |
+| 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
 | 10/10 | Xiaolong Li    | Self-Supervised Correspondence in Visuomotor Policy Learning [[Peter et al.](https://arxiv.org/pdf/1909.06933.pdf)] |
-| 10/17 | Shih-Yang Su   | TBD |
+| 10/17 | Shih-Yang Su   | MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [[Peng et al., NeurIPS2019(https://xbpeng.github.io/projects/MCP/index.html)] |
 | 10/24 | Badour AlBahar | TBD |
 | 10/31 | Si Chen        | TBD |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
