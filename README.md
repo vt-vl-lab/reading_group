@@ -35,7 +35,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/26 | Yuliang Zou    | Learning Spatial Common Sense with Geometry-Aware Recurrent Networks [[Tung et al. CVPR2019 Oral](https://arxiv.org/pdf/1901.00003.pdf)] [[slides]](https://docs.google.com/presentation/d/19zMGDmr8Vv37EBJgZYV1skU9Lwy79kfwmWkEKBrWeHA/edit?usp=sharing) |
 | 10/03 | Chen Gao       | Learning Correspondence from the Cycle-consistency of Time [[Wang et al., CVPR2019](https://arxiv.org/pdf/1903.07593.pdf)] [[slides](https://docs.google.com/presentation/d/1aFO1Wat1SNNQLIUDm7p5fwoaRiCHBO4aM-If3IBHYqE/edit?usp=sharing)] |
 | 10/10 | Xiaolong Li    | Self-Supervised Correspondence in Visuomotor Policy Learning [[Peter et al.](https://arxiv.org/pdf/1909.06933.pdf)] |
-| 10/17 | Shih-Yang Su   | MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [[Peng et al., NeurIPS2019(https://xbpeng.github.io/projects/MCP/index.html)] |
+| 10/17 | Shih-Yang Su   | MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [[Peng et al., NeurIPS2019](https://xbpeng.github.io/projects/MCP/index.html)] |
 | 10/24 | Badour AlBahar | TBD |
 | 10/31 | Si Chen        | TBD |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
