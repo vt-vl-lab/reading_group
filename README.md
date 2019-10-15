@@ -54,7 +54,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 09/27 | Yisong Yue  | [New Frontiers in Imitation Learning](https://www.microsoft.com/en-us/research/video/new-frontiers-imitation-learning/) |
 | 10/04 | N/A  | Cancelled due to Aayush Bansal's visit |
 | 10/11 | Jitendra Malik  | [AI Panel: Collins, Jordan, LeCun, Malik, Shenker](https://youtu.be/XfUpLolW6m0) |
-| 10/18 | TBD  | TBD |
+| 10/18 | Jure Leskovec  | [Graph Representation Learning](https://www.youtube.com/watch?v=YrhBZUtgG4E) |
 | 10/25 | TBD  | TBD |
 | 11/01 | TBD  | TBD |
 | 11/08 | -    | No meeting - CVPR2020 deadline |
