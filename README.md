@@ -56,7 +56,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 10/11 | Jitendra Malik  | [AI Panel: Collins, Jordan, LeCun, Malik, Shenker](https://youtu.be/XfUpLolW6m0) |
 | 10/18 | Jure Leskovec  | [Graph Representation Learning](https://www.youtube.com/watch?v=YrhBZUtgG4E) |
 | 10/25 | Eric Jang  | [Tutorial on Normalizing Flows](https://slideslive.com/38917907/tutorial-on-normalizing-flows) |
-| 11/01 | TBD  | TBD |
+| 11/01 | Geoffrey Hinton  | [Andrew Ng interviews Geoffrey Hinton](https://www.youtube.com/watch?v=-eyhCTvrEtE&list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR&index=2&t=0s) |
 | 11/08 | -    | No meeting - CVPR2020 deadline |
 | 11/15 | -    | No meeting - CVPR2020 deadline |
 | 11/22 | TBD  | TBD |
