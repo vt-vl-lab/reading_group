@@ -40,9 +40,9 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 10/31 | Si Chen        | GA-Net: Guided Aggregation Net for End-to-end Stereo Matching [[Zhang et al., CVPR2019](https://zpascal.net/cvpr2019/Zhang_GA-Net_Guided_Aggregation_Net_for_End-To-End_Stereo_Matching_CVPR_2019_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1kq5fY8uA_aOOYHKh5qYlUmifKrLTTdxkkQXHK7eU6fs/edit?usp=sharing)] |
 | 11/07 | -              | No meeting - CVPR2020 deadline |
 | 11/14 | -              | No meeting - CVPR2020 deadline |
-| 11/21 | Jiarui Xu      | TBD |
+| 11/21 | -              | No meeting - CVPR2020 supplementary deadline |
 | 11/28 | -              | No meeting - Happy Thanksgiving! |
-| 12/05 | TBD            | TBD |
+| 12/05 | Jiarui Xu      | TBD |
 
 ### Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
 
