@@ -59,7 +59,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 11/01 | Geoffrey Hinton  | [Andrew Ng interviews Geoffrey Hinton](https://www.youtube.com/watch?v=-eyhCTvrEtE&list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR&index=2&t=0s) |
 | 11/08 | -    | No meeting - CVPR2020 deadline |
 | 11/15 | -    | No meeting - CVPR2020 deadline |
-| 11/22 | TBD  | TBD |
+| 11/22 | Pieter Abbeel  | [Deep Reinforcement Learning](https://www.youtube.com/watch?v=l-mYLq6eZPY) |
 | 11/29 | -    | No meeting - Happy Thanksgiving! |
 | 12/06 | TBD  | TBD |
 
