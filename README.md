@@ -61,7 +61,7 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 11/15 | -    | No meeting - CVPR2020 deadline |
 | 11/22 | TBD  | TBD |
 | 11/29 | -    | No meeting - Happy Thanksgiving! |
-| 12/06 | TBD  | TBD |
+| 12/06 | Abhinav Gupta  | [What is missing in learning and reasoning with visual knowledge?](https://www.youtube.com/watch?v=-swj_rj3luE) |
 
 
 
