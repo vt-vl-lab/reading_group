@@ -42,7 +42,6 @@ Please let Jinwoo know what paper you are going to present and your summary by t
 | 11/14 | -              | No meeting - CVPR2020 deadline |
 | 11/21 | -              | No meeting - CVPR2020 supplementary deadline |
 | 11/28 | -              | No meeting - Happy Thanksgiving! |
-| 12/05 | Jiarui Xu      | TBD |
 
 ### Study Group: Friday 2PM - 3PM, Whittmore Hall 457B
 
