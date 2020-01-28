@@ -2,7 +2,7 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Reading Group: Friday 11AM - 12PM, Whittemore Hall TBD
+- Reading Group: Friday 11AM - 12PM, Whittemore Hall 457B
 
 
 <p align="center">
@@ -23,7 +23,7 @@ Time
 
 ## Current Schedule
 
-### Reading Group: Friday 11AM - 12PM, Whittemore Hall TBD
+### Reading Group: Friday 11AM - 12PM, Whittemore Hall 457B
 Please let Joseph know what paper you are going to present and your summary by the end of the Monday before your presentation.
 
 | Date       | Presenter     |  Topic     |
@@ -32,15 +32,15 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 02/07 | Esther Robb     | TBD |
 | 02/14 | Jinwoo Choi     | TBD |
 | 02/21 | Jiarui Xu       | TBD |
-| 02/28 | -               | No meeting - ECCV 2020 |
+| 02/28 | Yuliang Zou     | TBD |
 | 03/06 | -               | No meeting - ECCV 2020 |
 | 03/13 | -               | No meeting - Spring Break |
-| 03/20 | Yuliang Zou     | TBD |
-| 03/27 | Shih-Yang Su   | TBD |
-| 04/03 | Joseph Messou   | TBD |
-| 04/10 | Si Chen         | TBD |
-| 04/17 | Lowell Weissman | - |
-| 04/24 | Chen Gao        | - |
+| 03/20 | Shih-Yang Su    | TBD |
+| 03/27 | Joseph Messou   | TBD |
+| 04/03 | Si Chen         | TBD |
+| 04/10 | Lowell Weissman | TBD |
+| 04/17 | Chen Gao        | TBD |
+| 04/24 | -               | - |
 
 
 
