@@ -32,15 +32,15 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 02/07 | Esther Robb     | TBD |
 | 02/14 | Jinwoo Choi     | TBD |
 | 02/21 | Jiarui Xu       | TBD |
-| 02/28 | Yuliang Zou     | TBD |
-| 03/06 | Shih-Yang Su    | TBD |
+| 02/28 | -               | No meeting - ECCV 2020 |
+| 03/06 | -               | No meeting - ECCV 2020 |
 | 03/13 | -               | No meeting - Spring Break |
-| 03/20 | Joseph Messou   | TBD |
-| 03/27 | Si Chen         | TBD |
-| 04/03 | Lowell Weissman | TBD |
-| 04/10 | Chen Gao        | TBD |
-| 04/17 | -               | - |
-| 04/24 | -               | - |
+| 03/20 | Yuliang Zou     | TBD |
+| 03/27 | Shih-Yang Su   | TBD |
+| 04/03 | Joseph Messou   | TBD |
+| 04/10 | Si Chen         | TBD |
+| 04/17 | Lowell Weissman | - |
+| 04/24 | Chen Gao        | - |
 
 
 
