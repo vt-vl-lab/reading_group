@@ -2,7 +2,7 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Study Group: Friday 11AM - 12PM, Whittemore Hall TBD
+- Reading Group: Friday 11AM - 12PM, Whittemore Hall TBD
 
 
 <p align="center">
