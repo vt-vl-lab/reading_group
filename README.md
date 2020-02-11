@@ -28,9 +28,9 @@ Please let Joseph know what paper you are going to present and your summary by t
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/31 | Badour AlBahar  | TBD |
-| 02/07 | Esther Robb     | TBD |
-| 02/14 | Jinwoo Choi     | TBD |
+| 01/31 | -  | No meeting |
+| 02/07 | Esther Robb     | Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [[Xu et al, ICCV 2019](https://arxiv.org/abs/1811.07456)] [slides] |
+| 02/14 | Jinwoo Choi     |  Mimetics: Towards Understanding Human Actions Out of Context [[Weinzaepfel and Rogez](https://arxiv.org/abs/1912.07249)] [slides] |
 | 02/21 | Jiarui Xu       | TBD |
 | 02/28 | Yuliang Zou     | TBD |
 | 03/06 | -               | No meeting - ECCV 2020 |
@@ -40,7 +40,7 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 04/03 | Si Chen         | TBD |
 | 04/10 | Lowell Weissman | TBD |
 | 04/17 | Chen Gao        | TBD |
-| 04/24 | -               | - |
+| 04/24 | Badour AlBahar  | TBD |
 
 
 
