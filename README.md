@@ -2,7 +2,7 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Reading Group: Friday 11AM - 12PM, Whittemore Hall 457B
+- Reading Group: Friday 11AM - 12PM, On Zoom (link sent in weekly email)
 
 
 <p align="center">
@@ -23,7 +23,7 @@ Time
 
 ## Current Schedule
 
-### Reading Group: Friday 11AM - 12PM, Whittemore Hall 457B
+### Reading Group: Friday 11AM - 12PM, On Zoom (link sent in weekly email)
 Please let Joseph know what paper you are going to present and your summary by the end of the Monday before your presentation.
 
 | Date       | Presenter     |  Topic     |
