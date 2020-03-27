@@ -31,7 +31,7 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 01/31 | -  | No meeting |
 | 02/07 | Esther Robb     | Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [[Xu et al, ICCV 2019](https://arxiv.org/abs/1811.07456)] [[slides](https://docs.google.com/presentation/d/1aQoZdwvcDuG61xu24flviCppKl-7upgIYcjbZUrO0Og/edit?usp=sharing)] |
 | 02/14 | Jinwoo Choi     |  Mimetics: Towards Understanding Human Actions Out of Context [[Weinzaepfel and Rogez](https://arxiv.org/abs/1912.07249)] [[slides](https://docs.google.com/presentation/d/1CI_fbVSUqk8V8uS3Z7gJRgLVvsnG6vYkbnE1YSrlSR0/edit?usp=sharing)] |
-| 02/21 | Jiarui Xu       | TBD |
+| 02/21 | Jiarui Xu       | Tell Me What They're Holding: Weakly-supervised Object Detection with Transferable Knowledge from Human-object Interaction [[Kim et al, AAAI 2020](https://arxiv.org/abs/1911.08141)] [[slides](https://docs.google.com/presentation/d/10qeFH4f1MJu6SLBiI8cziT2JOIq-r-FHc0A_XawFcKk/edit?usp=sharing)]|
 | 02/28 | -               | No meeting - ECCV 2020 |
 | 03/06 | -               | No meeting - ECCV 2020 |
 | 03/13 | -               | No meeting - Spring Break |
