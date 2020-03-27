@@ -32,15 +32,17 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 02/07 | Esther Robb     | Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [[Xu et al, ICCV 2019](https://arxiv.org/abs/1811.07456)] [[slides](https://docs.google.com/presentation/d/1aQoZdwvcDuG61xu24flviCppKl-7upgIYcjbZUrO0Og/edit?usp=sharing)] |
 | 02/14 | Jinwoo Choi     |  Mimetics: Towards Understanding Human Actions Out of Context [[Weinzaepfel and Rogez](https://arxiv.org/abs/1912.07249)] [[slides](https://docs.google.com/presentation/d/1CI_fbVSUqk8V8uS3Z7gJRgLVvsnG6vYkbnE1YSrlSR0/edit?usp=sharing)] |
 | 02/21 | Jiarui Xu       | TBD |
-| 02/28 | Yuliang Zou     | TBD |
+| 02/28 | -               | No meeting - ECCV 2020 |
 | 03/06 | -               | No meeting - ECCV 2020 |
 | 03/13 | -               | No meeting - Spring Break |
-| 03/20 | Shih-Yang Su    | TBD |
-| 03/27 | Joseph Messou   | TBD |
-| 04/03 | Si Chen         | TBD |
-| 04/10 | Lowell Weissman | TBD |
-| 04/17 | Chen Gao        | TBD |
-| 04/24 | Badour AlBahar  | TBD |
+| 03/20 | -               | No meeting - Spring Break |
+| 03/27 | Yuliang Zou     | Unbiased Scene Graph Generation from Biased Training [[Tang et al. CVPR 2020 Oral](https://arxiv.org/pdf/2002.11949.pdf)] [[slides](https://docs.google.com/presentation/d/1qA5-drrIchOjQtwnTeipb-32jL32CuPoRC_B0yLzwFY/edit?usp=sharing)] |
+| 04/03 | Shih-Yang Su    | TBD |
+| 04/10 | Joseph Messou   | TBD |
+| 04/17 | Si Chen         | TBD |
+| 04/24 | Lowell Weissman | TBD |
+| 05/01 | Chen Gao        | TBD |
+| 05/08 | Badour AlBahar  | TBD |
 
 
 
