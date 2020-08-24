@@ -2,7 +2,7 @@
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
 Time
-- Reading Group: Friday 11AM - 12PM, On Zoom (link sent in weekly email)
+- Reading Group: Wednesday 1PM - 2PM, On Zoom (link sent in weekly email)
 
 
 <p align="center">
@@ -11,7 +11,7 @@ Time
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2020)](#current-schedule)
+- [Current Schedule (Fall 2020)](#current-schedule)
 - [Previous Meetings](#previous-meetings)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenter)
@@ -23,24 +23,29 @@ Time
 
 ## Current Schedule
 
-### Reading Group: Friday 11AM - 12PM, On Zoom (link sent in weekly email)
-Please let Joseph know what paper you are going to present and your summary by the end of the Monday before your presentation.
+### Reading Group: Wednesday 1PM - 2PM, On Zoom (link sent in weekly email)
+Please let Badour know what paper you are going to present and your summary by the end of the Monday before your presentation.
+
+NEW: In this semester, we will have two short presentations each week.
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 01/31 | -  | No meeting |
-| 02/07 | Esther Robb     | Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [[Xu et al, ICCV 2019](https://arxiv.org/abs/1811.07456)] [[slides](https://docs.google.com/presentation/d/1aQoZdwvcDuG61xu24flviCppKl-7upgIYcjbZUrO0Og/edit?usp=sharing)] |
-| 02/14 | Jinwoo Choi     |  Mimetics: Towards Understanding Human Actions Out of Context [[Weinzaepfel and Rogez](https://arxiv.org/abs/1912.07249)] [[slides](https://docs.google.com/presentation/d/1CI_fbVSUqk8V8uS3Z7gJRgLVvsnG6vYkbnE1YSrlSR0/edit?usp=sharing)] |
-| 02/21 | Jiarui Xu       | Tell Me What They're Holding: Weakly-supervised Object Detection with Transferable Knowledge from Human-object Interaction [[Kim et al, AAAI 2020](https://arxiv.org/abs/1911.08141)] [[slides](https://docs.google.com/presentation/d/10qeFH4f1MJu6SLBiI8cziT2JOIq-r-FHc0A_XawFcKk/edit?usp=sharing)]|
-| 02/28 | -               | No meeting - ECCV 2020 |
-| 03/06 | -               | No meeting - ECCV 2020 |
-| 03/13 | -               | No meeting - Spring Break |
-| 03/20 | -               | No meeting - Spring Break |
-| 03/27 | Yuliang Zou     | Unbiased Scene Graph Generation from Biased Training [[Tang et al. CVPR 2020 Oral](https://arxiv.org/pdf/2002.11949.pdf)] [[slides](https://docs.google.com/presentation/d/1qA5-drrIchOjQtwnTeipb-32jL32CuPoRC_B0yLzwFY/edit?usp=sharing)] |
-| 04/03 | Shih-Yang Su    | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives [[Goyal et al. ICLR 2020]](https://openreview.net/forum?id=ryxgJTEYDr) |
-| 04/10 | Joseph Messou   | Network Deconvolution [[Ye et al. ICLR 2020]](https://openreview.net/forum?id=rkeu30EtvS) |
-
-
+| 08/26 | -  | No meeting |
+| 09/02 | -  | TBD |
+| 09/09 | -  | TBD |
+| 09/16 | -  | TBD |
+| 09/23 | -  | TBD |
+| 09/30 | -  | TBD |
+| 10/07 | -  | TBD |
+| 10/14 | -  | TBD |
+| 10/21 | -  | TBD |
+| 10/28 | -  | TBD |
+| 11/04 | -  | TBD |
+| 11/11 | -  | No meeting - CVPR ddl |
+| 11/18 | -  | No meeting - CVPR ddl |
+| 11/25 | -  | No meeting - Thanksgiving Break |
+| 12/02 | -  | TBD |
+| 12/09 | -  | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
@@ -57,18 +62,14 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 Please let Joseph know what paper you are going to present and your summary by the end of the Monday before your presentation. Also, please send your slides or a link to them to Joseph once you finish preparing them.
 
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
-- Si Chen
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
 - [Chen Gao](https://gaochen315.github.io/)
 - [Xiaolong Li](https://dragonlong.github.io/)
-- [Joseph Messou](https://josephcmessou.weebly.com/about.html)
-- Esther Robb
-- [Shih-Yang Su](https://lemonatsu.github.io/home)
-- Lowell Weissman
-- Jiarui Xu
+- [Esther Robb](https://www.linkedin.com/in/esther-robb-871797b7/)
+- [Lowell Weissman](https://www.linkedin.com/in/lowell-weissman/)
 - [Yuliang Zou](https://yuliang-zou.github.io/index.html)
 
-Please contact Joseph (mejc2014 -at- vt.edu) if you want to be a presenter this semester!
+Please contact Badour (badour -at- vt.edu) if you want to be a presenter this semester!
 
 ## Related Links
 
