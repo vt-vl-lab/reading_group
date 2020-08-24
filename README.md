@@ -37,12 +37,8 @@ Please let Joseph know what paper you are going to present and your summary by t
 | 03/13 | -               | No meeting - Spring Break |
 | 03/20 | -               | No meeting - Spring Break |
 | 03/27 | Yuliang Zou     | Unbiased Scene Graph Generation from Biased Training [[Tang et al. CVPR 2020 Oral](https://arxiv.org/pdf/2002.11949.pdf)] [[slides](https://docs.google.com/presentation/d/1qA5-drrIchOjQtwnTeipb-32jL32CuPoRC_B0yLzwFY/edit?usp=sharing)] |
-| 04/03 | Shih-Yang Su    | TBD |
-| 04/10 | Joseph Messou   | TBD |
-| 04/17 | Si Chen         | TBD |
-| 04/24 | Lowell Weissman | TBD |
-| 05/01 | Chen Gao        | TBD |
-| 05/08 | Badour AlBahar  | TBD |
+| 04/03 | Shih-Yang Su    | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives [[Goyal et al. ICLR 2020]](https://openreview.net/forum?id=ryxgJTEYDr) |
+| 04/10 | Joseph Messou   | Network Deconvolution [[Ye et al. ICLR 2020]](https://openreview.net/forum?id=rkeu30EtvS) |
 
 
 
