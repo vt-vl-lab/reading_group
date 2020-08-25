@@ -59,7 +59,7 @@ NEW: In this semester, we will have two short presentations each week.
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenter
-Please let us know what paper you are going to present and your summary by the end of the Monday before your presentation. Also, please send your slides or a link to them to Joseph once you finish preparing them.
+Please let us know what paper you are going to present and your summary by the end of the Monday before your presentation. Also, please send your slides or a link to them once you finish preparing them.
 
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
 - [Jinwoo Choi](https://sites.google.com/site/jchoivision/)
