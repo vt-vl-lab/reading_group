@@ -53,6 +53,7 @@ NEW: In this semester, we will have two short presentations each week.
 - [Fall 2018](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2018_fall.md)
 - [Spring 2019](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2019_spring.md)
 - [Fall 2019](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2019_fall.md)
+- [Spring 2020](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2020_spring.md)
 
 ## Mailing List
 
