@@ -28,23 +28,23 @@ Please let Badour know what paper you are going to present and your summary by t
 
 NEW: In this semester, we will have two short presentations each week.
 
-| Date       | Presenter     |  Topic     |
+| Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 08/26 | -  | No meeting |
-| 09/02 | -  | TBD |
-| 09/09 | -  | TBD |
-| 09/16 | -  | TBD |
-| 09/23 | -  | TBD |
-| 09/30 | -  | TBD |
-| 10/07 | -  | TBD |
-| 10/14 | -  | TBD |
-| 10/21 | -  | TBD |
-| 10/28 | -  | TBD |
-| 11/04 | -  | TBD |
+| 09/02 | Yue Feng, Chen Gao  | TBD |
+| 09/09 | Xiaolong Li, Esther Robb  | TBD |
+| 09/16 | Yuliang Zou, Yiran Xu  | TBD |
+| 09/23 | Lowell Weissman, Qitong Wang  | TBD |
+| 09/30 | Badour AlBahar, Soomin Moon  | TBD |
+| 10/07 | Jinwoo Choi, Yue Feng  | TBD |
+| 10/14 | Chen Gao, Xiaolong Li  | TBD |
+| 10/21 | Esther Robb, Yuliang Zou  | TBD |
+| 10/28 | Yiran Xu, Lowell Weissman  | TBD |
+| 11/04 | Qitong Wang, Badour AlBahar  | TBD |
 | 11/11 | -  | No meeting - CVPR ddl |
 | 11/18 | -  | No meeting - CVPR ddl |
 | 11/25 | -  | No meeting - Thanksgiving Break |
-| 12/02 | -  | TBD |
+| 12/02 | Soomin Moon, Jinwoo Choi  | TBD |
 | 12/09 | -  | TBD |
 
 ## Previous Meetings
@@ -59,7 +59,7 @@ NEW: In this semester, we will have two short presentations each week.
 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
 
-## Presenter
+## Presenters
 Please let us know what paper you are going to present and your summary by the end of the Monday before your presentation. Also, please send your slides or a link to them once you finish preparing them.
 
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
