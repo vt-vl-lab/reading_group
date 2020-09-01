@@ -31,7 +31,7 @@ NEW: In this semester, we will have two short presentations each week.
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 08/26 | -  | No meeting |
-| 09/02 | Yue Feng, Chen Gao  | TBD |
+| 09/02 | Yue Feng, Chen Gao  | TIDE: A General Toolbox for Identifying Object Detection Errors [[Bolya et al, ECCV 2020 Spotlight Paper](https://arxiv.org/pdf/2008.08115.pdf)], and NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Mildenhall et al, ECCV 2020 (oral)](https://arxiv.org/pdf/2003.08934.pdf)]|
 | 09/09 | Xiaolong Li, Esther Robb  | TBD |
 | 09/16 | Yuliang Zou, Yiran Xu  | TBD |
 | 09/23 | Lowell Weissman, Qitong Wang  | TBD |
