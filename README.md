@@ -35,17 +35,17 @@ NEW: In this semester, we will have two short presentations each week.
 | 09/09 | Xiaolong Li, Esther Robb  | TBD |
 | 09/16 | Yuliang Zou, Yiran Xu  | TBD |
 | 09/23 | Lowell Weissman, Qitong Wang  | TBD |
-| 09/30 | Badour AlBahar, Soomin Moon  | TBD |
-| 10/07 | Jinwoo Choi, Yue Feng  | TBD |
-| 10/14 | Chen Gao, Xiaolong Li  | TBD |
-| 10/21 | Esther Robb, Yuliang Zou  | TBD |
-| 10/28 | Yiran Xu, Lowell Weissman  | TBD |
-| 11/04 | Qitong Wang, Badour AlBahar  | TBD |
+| 09/30 | Badour AlBahar, Jinwoo Choi  | TBD |
+| 10/07 | Yue Feng, Chen Gao  | TBD |
+| 10/14 | Xiaolong Li, Esther Robb  | TBD |
+| 10/21 | Yuliang Zou, Yiran Xu  | TBD |
+| 10/28 | Lowell Weissman, Qitong Wang  | TBD |
+| 11/04 | Badour AlBahar, Jinwoo Choi  | TBD |
 | 11/11 | -  | No meeting - CVPR ddl |
 | 11/18 | -  | No meeting - CVPR ddl |
 | 11/25 | -  | No meeting - Thanksgiving Break |
-| 12/02 | Soomin Moon, Jinwoo Choi  | TBD |
-| 12/09 | -  | TBD |
+| 12/02 | Yue Feng, Chen Gao  | TBD |
+| 12/09 | Xiaolong Li, Esther Robb  | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
