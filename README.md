@@ -31,11 +31,11 @@ NEW: In this semester, we will have two short presentations each week.
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 08/26 | -  | No meeting |
-| 09/02 | Yue Feng, Chen Gao  | TIDE: A General Toolbox for Identifying Object Detection Errors [[Bolya et al, ECCV 2020 Spotlight Paper](https://arxiv.org/pdf/2008.08115.pdf)], and NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Mildenhall et al, ECCV 2020 (oral)](https://arxiv.org/pdf/2003.08934.pdf)]|
-| 09/09 | Xiaolong Li, Esther Robb  | TBD |
-| 09/16 | Yuliang Zou, Yiran Xu  | TBD |
-| 09/23 | Lowell Weissman, Qitong Wang  | TBD |
-| 09/30 | Badour AlBahar, Jinwoo Choi  | TBD |
+| 09/02 | Yue Feng, Chen Gao  | TIDE: A General Toolbox for Identifying Object Detection Errors [[Bolya et al., ECCV 2020 Spotlight Paper](https://arxiv.org/pdf/2008.08115.pdf)], and NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Mildenhall et al., ECCV 2020 (oral)](https://arxiv.org/pdf/2003.08934.pdf)]|
+| 09/09 | Xiaolong Li, Esther Robb  | RAFT: Recurrent All-Pairs Field Transforms for Optical Flow [[Teed et al.](https://arxiv.org/abs/2003.12039)], and From Language to Goals: Inverse Reinforcement Learning for Vision-based Instruction Following [[Fu et al.](https://arxiv.org/abs/1902.07742)]|
+| 09/16 | Yuliang Zou, Yiran Xu  | Rewriting a Deep Generative Model [[Bau et al.](https://arxiv.org/abs/2007.15646)], and Swapping Autoencoder for Deep Image Manipulation [[Park et al.](https://arxiv.org/abs/2007.00653)] |
+| 09/23 | Lowell Weissman, Qitong Wang  | Dream to Control: Learning Behaviors by Latent Imagination [[Hafner et al.](https://arxiv.org/abs/1912.01603)], and BorderDet: Border Feature for Dense Object Detection [[Qiu et al.](https://arxiv.org/abs/2007.11056)] |
+| 09/30 | Badour AlBahar, Jinwoo Choi  | Transforming and Projecting Images into Class-conditional Generative Networks [[Huh et al.](https://arxiv.org/abs/2005.01703)], and What Should Not Be Contrastive in Contrastive Learning [[Xiao et al.](https://arxiv.org/abs/2008.05659)] |
 | 10/07 | Yue Feng, Chen Gao  | TBD |
 | 10/14 | Xiaolong Li, Esther Robb  | TBD |
 | 10/21 | Yuliang Zou, Yiran Xu  | TBD |
