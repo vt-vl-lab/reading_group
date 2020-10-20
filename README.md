@@ -36,8 +36,8 @@ NEW: In this semester, we will have two short presentations each week.
 | 09/16 | Yuliang Zou, Yiran Xu  | Rewriting a Deep Generative Model [[Bau et al.](https://arxiv.org/abs/2007.15646)], and Swapping Autoencoder for Deep Image Manipulation [[Park et al.](https://arxiv.org/abs/2007.00653)] |
 | 09/23 | Lowell Weissman, Qitong Wang  | Dream to Control: Learning Behaviors by Latent Imagination [[Hafner et al.](https://arxiv.org/abs/1912.01603)], and BorderDet: Border Feature for Dense Object Detection [[Qiu et al.](https://arxiv.org/abs/2007.11056)] |
 | 09/30 | Badour AlBahar, Jinwoo Choi  | Transforming and Projecting Images into Class-conditional Generative Networks [[Huh et al.](https://arxiv.org/abs/2005.01703)], and What Should Not Be Contrastive in Contrastive Learning [[Xiao et al.](https://arxiv.org/abs/2008.05659)] |
-| 10/07 | Yue Feng, Chen Gao  | TBD |
-| 10/14 | Xiaolong Li, Esther Robb  | TBD |
+| 10/07 | Yue Feng, Chen Gao  | Speech2Action: Cross-modal Supervision for Action Recognition [[Nagrani et al.](https://arxiv.org/abs/2003.13594)], NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[Martin-Brualla et al.](https://arxiv.org/abs/2008.02268)] |
+| 10/14 | Xiaolong Li | Convolutional Occupancy Networks [[Peng et al.](https://arxiv.org/abs/2003.04618)] |
 | 10/21 | Yuliang Zou, Yiran Xu  | TBD |
 | 10/28 | Lowell Weissman, Qitong Wang  | TBD |
 | 11/04 | Badour AlBahar, Jinwoo Choi  | TBD |
