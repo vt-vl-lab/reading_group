@@ -38,14 +38,14 @@ NEW: In this semester, we will have two short presentations each week.
 | 09/30 | Badour AlBahar, Jinwoo Choi  | Transforming and Projecting Images into Class-conditional Generative Networks [[Huh et al.](https://arxiv.org/abs/2005.01703)], and What Should Not Be Contrastive in Contrastive Learning [[Xiao et al.](https://arxiv.org/abs/2008.05659)] |
 | 10/07 | Yue Feng, Chen Gao  | Speech2Action: Cross-modal Supervision for Action Recognition [[Nagrani et al.](https://arxiv.org/abs/2003.13594)], NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[Martin-Brualla et al.](https://arxiv.org/abs/2008.02268)] |
 | 10/14 | Xiaolong Li | Convolutional Occupancy Networks [[Peng et al.](https://arxiv.org/abs/2003.04618)] |
-| 10/21 | Yuliang Zou, Yiran Xu  | TBD |
-| 10/28 | Lowell Weissman, Qitong Wang  | TBD |
-| 11/04 | Badour AlBahar, Jinwoo Choi  | TBD |
+| 10/21 | Yuliang Zou, Yiran Xu  | Learning Feature Descriptors using Camera Pose Supervision [[Wang et al.](https://arxiv.org/abs/2004.13324)], Big GANs Are Watching You: Towards Unsupervised Object Segmentation with Off-the-shelf Generative Models [[Voynov et al.](https://arxiv.org/abs/2006.04988)]|
+| 10/28 | -  | No meeting - CVPR ddl |
+| 11/04 | -  | No meeting - CVPR ddl |
 | 11/11 | -  | No meeting - CVPR ddl |
 | 11/18 | -  | No meeting - CVPR ddl |
 | 11/25 | -  | No meeting - Thanksgiving Break |
-| 12/02 | Yue Feng, Chen Gao  | TBD |
-| 12/09 | Xiaolong Li, Esther Robb  | TBD |
+| 12/02 | Lowell Weissman, Qitong Wang  | TBD |
+| 12/09 | Badour AlBahar, Jinwoo Choi  | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
