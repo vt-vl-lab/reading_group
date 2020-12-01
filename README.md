@@ -44,8 +44,8 @@ NEW: In this semester, we will have two short presentations each week.
 | 11/11 | -  | No meeting - CVPR ddl |
 | 11/18 | -  | No meeting - CVPR ddl |
 | 11/25 | -  | No meeting - Thanksgiving Break |
-| 12/02 | Lowell Weissman, Qitong Wang  | TBD |
-| 12/09 | Badour AlBahar, Jinwoo Choi  | TBD |
+| 12/02 | Lowell Weissman, Cong Chen | Rearrangement: A Challenge for Embodied AI [[Batra et al.](https://arxiv.org/abs/2011.01975)], Training Generative Adversarial Networks with Limited Data [[Karras et al.](https://arxiv.org/abs/2006.06676)] |
+| 12/09 | Qitong Wang, Jinwoo Choi  | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
