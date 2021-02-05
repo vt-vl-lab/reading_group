@@ -34,7 +34,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 02/18 | Yuliang Zou  | TBD |
 | 02/25 | -  | No Meeting (Spring Break Day) |
 | 03/04 | Yue Feng  | TBD |
-| 03/11 | -  | No Meeting (ECCV) |
+| 03/11 | -  | No Meeting (ICCV) |
 | 03/18 | -  | No Meeting (ICCV) |
 | 03/25 | Yiran Xu  | TBD |
 | 04/01 | Qitong Wang  | TBD |
