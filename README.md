@@ -30,7 +30,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 02/11 | Badour AlBahar  | TBD |
+| 02/11 | Badour AlBahar  | Pose-Guided Human Animation from a Single Image in the Wild [[Yoon et al.](https://arxiv.org/pdf/2012.03796.pdf)] |
 | 02/18 | Yuliang Zou  | TBD |
 | 02/25 | -  | No Meeting (Spring Break Day) |
 | 03/04 | Yue Feng  | TBD |
