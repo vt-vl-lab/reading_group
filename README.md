@@ -31,7 +31,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 02/11 | Badour AlBahar  | Pose-Guided Human Animation from a Single Image in the Wild [[Yoon et al.](https://arxiv.org/pdf/2012.03796.pdf)] |
-| 02/18 | Yuliang Zou  | TBD |
+| 02/18 | Yuliang Zou  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] |
 | 02/25 | -  | No Meeting (Spring Break Day) |
 | 03/04 | Yue Feng  | TBD |
 | 03/11 | -  | No Meeting (ICCV) |
