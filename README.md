@@ -31,17 +31,17 @@ This semester we will have one presenter each week. Presentation duration is lef
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 02/11 | Badour AlBahar  | Pose-Guided Human Animation from a Single Image in the Wild [[Yoon et al.](https://arxiv.org/pdf/2012.03796.pdf)] |
-| 02/18 | Yuliang Zou  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] |
+| 02/18 | -  | Meeting Canceled (Inclement Weather) |
 | 02/25 | -  | No Meeting (Spring Break Day) |
-| 03/04 | Yue Feng  | TBD |
+| 03/04 | Yuliang Zou <br/> Yue Feng  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> TBD |
 | 03/11 | -  | No Meeting (ICCV) |
 | 03/18 | -  | No Meeting (ICCV) |
 | 03/25 | Yiran Xu  | TBD |
-| 04/01 | Qitong Wang  | TBD |
+| 04/01 | Qitong Wang <br/> Eric Bianchi | TBD |
 | 04/08 | Esther Robb  | TBD |
 | 04/15 | Lowell Weissman  | TBD |
 | 04/22 | Cong Chen  | TBD |
-| 04/29 | Chen Gao  | TBD |
+| 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
@@ -60,9 +60,11 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 Please let Lowell know what paper you are going to present and provide your summary by the end of the day on the **Tuesday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
 
 - [Badour AlBahar](https://sites.google.com/vt.edu/badouralbahar/home)
+- [Eric Bianchi](https://www.linkedin.com/in/eric-bianchi-9a668083/)
 - [Cong Chen](https://www.linkedin.com/in/cchen9/)
 - [Yue Feng](https://www.linkedin.com/in/yue-feng-72903213b/)
 - [Chen Gao](https://gaochen315.github.io/)
+- [Xiaolong Li](https://dragonlong.github.io/)
 - [Esther Robb](http://www.estherrobb.com/)
 - [Qitong Wang](https://www.linkedin.com/in/wqtwjt2242/?locale=en_US)
 - [Lowell Weissman](https://www.linkedin.com/in/lowell-weissman/)
