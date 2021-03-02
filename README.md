@@ -33,10 +33,10 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 02/11 | Badour AlBahar  | Pose-Guided Human Animation from a Single Image in the Wild [[Yoon et al.](https://arxiv.org/pdf/2012.03796.pdf)] |
 | 02/18 | -  | Meeting Canceled (Inclement Weather) |
 | 02/25 | -  | No Meeting (Spring Break Day) |
-| 03/04 | Yuliang Zou <br/> Yue Feng  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> TBD |
+| 03/04 | Xuan Luo <br/> Yue Feng  | Computational Time Machine (Invited Talk) <br/> Learning Continuous Image Representation with Local Implicit Image Function [[Chen et al.](https://arxiv.org/pdf/2012.09161.pdf)] |
 | 03/11 | -  | No Meeting (ICCV) |
 | 03/18 | -  | No Meeting (ICCV) |
-| 03/25 | Yiran Xu  | TBD |
+| 03/25 | Yuliang Zou <br/> Yiran Xu  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> TBD |
 | 04/01 | Qitong Wang <br/> Eric Bianchi | TBD |
 | 04/08 | Esther Robb  | TBD |
 | 04/15 | Lowell Weissman  | TBD |
@@ -65,6 +65,7 @@ Please let Lowell know what paper you are going to present and provide your summ
 - [Yue Feng](https://www.linkedin.com/in/yue-feng-72903213b/)
 - [Chen Gao](https://gaochen315.github.io/)
 - [Xiaolong Li](https://dragonlong.github.io/)
+- [Xuan Luo](https://roxanneluo.github.io/)
 - [Esther Robb](http://www.estherrobb.com/)
 - [Qitong Wang](https://www.linkedin.com/in/wqtwjt2242/?locale=en_US)
 - [Lowell Weissman](https://www.linkedin.com/in/lowell-weissman/)
