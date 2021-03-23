@@ -36,9 +36,9 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 03/04 | Xuan Luo | Computational Time Machine (Invited Talk) |
 | 03/11 | -  | No Meeting (ICCV) |
 | 03/18 | -  | No Meeting (ICCV) |
-| 03/25 | Yuliang Zou <br/> Yiran Xu  | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> TBD |
+| 03/25 | Yuliang Zou <br/> Yue Feng | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> Learning Continuous Image Representation with Local Implicit Image Function [[Chen et al.](https://arxiv.org/pdf/2012.09161.pdf)] |
 | 04/01 | Qitong Wang <br/> Eric Bianchi | TBD |
-| 04/08 | Yue Feng <br/> Esther Robb  | Learning Continuous Image Representation with Local Implicit Image Function [[Chen et al.](https://arxiv.org/pdf/2012.09161.pdf)] <br/> TBD |
+| 04/08 | Yiran Xu <br/> Esther Robb  | TBD <br/> TBD |
 | 04/15 | Lowell Weissman  | TBD |
 | 04/22 | Cong Chen  | TBD |
 | 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
