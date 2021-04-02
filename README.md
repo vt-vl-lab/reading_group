@@ -42,6 +42,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 04/15 | Lowell Weissman  | TBD |
 | 04/22 | Cong Chen  | TBD |
 | 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
+| 05/06 | Erika Lu | Omnimatte: Associating Objects and Their Effects in Video [Lu et al.] (Invited Author)  |
 
 ## Previous Meetings
 - [Fall 2017](https://github.com/vt-vl-lab/reading_group/blob/master/previous/2017_fall.md)
@@ -65,6 +66,7 @@ Please let Lowell know what paper you are going to present and provide your summ
 - [Yue Feng](https://www.linkedin.com/in/yue-feng-72903213b/)
 - [Chen Gao](https://gaochen315.github.io/)
 - [Xiaolong Li](https://dragonlong.github.io/)
+- [Erika Lu](https://erikalu.com/)
 - [Xuan Luo](https://roxanneluo.github.io/)
 - [Esther Robb](http://www.estherrobb.com/)
 - [Qitong Wang](https://www.linkedin.com/in/wqtwjt2242/?locale=en_US)
