@@ -38,7 +38,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 03/18 | -  | No Meeting (ICCV) |
 | 03/25 | Yuliang Zou <br/> Yue Feng | Learning Transferable Visual Models From Natural Language Supervision [[Radford et al.](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] <br/> Learning Continuous Image Representation with Local Implicit Image Function [[Chen et al.](https://arxiv.org/pdf/2012.09161.pdf)] |
 | 04/01 | Qitong Wang | UniT: Multimodal Multitask Learning with a Unified Transformer [[Hu and Singh](https://arxiv.org/pdf/2102.10772.pdf)] |
-| 04/08 | Yiran Xu <br/> Esther Robb  | TBD <br/> TBD |
+| 04/08 | Yiran Xu <br/> Esther Robb  | Labels4Free: Unsupervised Segmentation using StyleGAN <br/> TBD |
 | 04/15 | Eric Bianchi <br/> Lowell Weissman | StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [[Wu et al.](https://arxiv.org/pdf/2011.12799.pdf)] <br/> TBD |
 | 04/22 | Cong Chen  | TBD |
 | 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
