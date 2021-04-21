@@ -40,7 +40,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 04/01 | Qitong Wang | UniT: Multimodal Multitask Learning with a Unified Transformer [[Hu and Singh](https://arxiv.org/pdf/2102.10772.pdf)] |
 | 04/08 | Yiran Xu | Labels4Free: Unsupervised Segmentation using StyleGAN |
 | 04/15 | Eric Bianchi <br/> Lowell Weissman | StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [[Wu et al.](https://arxiv.org/pdf/2011.12799.pdf)] <br/> CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[Srinivas et al.](https://arxiv.org/pdf/2004.04136.pdf)] |
-| 04/22 | Cong Chen  | TBD |
+| 04/22 | Cong Chen  | Point Transformer [[Zhao et al.](https://arxiv.org/pdf/2012.09164.pdf)] |
 | 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
 | 05/06 | Erika Lu | Omnimatte: Associating Objects and Their Effects in Video [Lu et al.] (Invited Author)  |
 
