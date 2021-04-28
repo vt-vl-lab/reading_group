@@ -41,7 +41,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 04/08 | Yiran Xu | Labels4Free: Unsupervised Segmentation using StyleGAN |
 | 04/15 | Eric Bianchi <br/> Lowell Weissman | StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [[Wu et al.](https://arxiv.org/pdf/2011.12799.pdf)] <br/> CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[Srinivas et al.](https://arxiv.org/pdf/2004.04136.pdf)] |
 | 04/22 | Cong Chen  | Point Transformer [[Zhao et al.](https://arxiv.org/pdf/2012.09164.pdf)] |
-| 04/29 | Chen Gao <br/> Xiaolong Li | TBD |
+| 04/29 | Chen Gao <br/> Xiaolong Li | Hierarchical Motion Understanding via Motion Programs [[Kulal et al.](https://arxiv.org/pdf/2104.11216.pdf)] <br/> Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs [[Pan et al.](https://xingangpan.github.io/projects/GAN2Shape.html)] |
 | 05/06 | Erika Lu | Omnimatte: Associating Objects and Their Effects in Video [Lu et al.] (Invited Author)  |
 
 ## Previous Meetings
